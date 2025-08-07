@@ -1,0 +1,6 @@
+- name: tensorflow
+  description: "tensorflow"
+  type: public
+  branches:
+    - name: master
+    - name: dev
