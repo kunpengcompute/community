@@ -1,4 +1,4 @@
-- name: repo-A
+- name: repo-B
   description: "this is the description of repo-A"
   type: public
   branches:
