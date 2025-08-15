@@ -11,7 +11,7 @@ BoostKIT社区包含多个项目，您可以根据实际场景，在对应的项
 ## 品牌主页仓
 |  项目|应用场景  |  
 |--|--|
-| [OminiRuntime](https://gitcode.com/BoostKit/omniruntime) | 大数据极致加速：OmniRuntime主页 |  
+| [OmniRuntime](https://gitcode.com/BoostKit/omniruntime) | 大数据极致加速：OmniRuntime主页 |  
 | [BoostVirt]() | 虚拟化极致低损耗：BoostVirt主页 |  
 |  [BoostSDS](https://gitcode.com/BoostKit/boostsds)| 分布式存储极致IO时延：BoostSDS主页 |  
 |  [BoostDB](https://gitcode.com/boostkit/boostdb)| 数据库极致性能：BoostDB主页 |  
