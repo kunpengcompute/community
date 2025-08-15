@@ -1,0 +1,6 @@
+name: hmpp
+type: private
+description: "SRA主页"
+branches:
+  - name: master
+    type: protected

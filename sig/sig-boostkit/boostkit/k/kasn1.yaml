@@ -1,0 +1,6 @@
+name: kasn1
+type: private
+description: "asn1协议解析库"
+branches:
+  - name: master
+    type: protected

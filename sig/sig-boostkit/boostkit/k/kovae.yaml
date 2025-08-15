@@ -1,0 +1,6 @@
+name: kovae
+type: public
+description: "boostkit数据库MySQL、PG AP向量化加速引擎代码仓"
+branches:
+  - name: master
+    type: protected

@@ -1,0 +1,6 @@
+name: gluten
+type: public
+description: ""
+branches:
+  - name: master
+    type: protected

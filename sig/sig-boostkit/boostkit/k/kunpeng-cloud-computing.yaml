@@ -1,0 +1,6 @@
+name: kunpeng-cloud-computing
+type: public
+description: ""
+branches:
+  - name: master
+    type: protected

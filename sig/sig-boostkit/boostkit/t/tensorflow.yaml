@@ -1,0 +1,6 @@
+name: tensorflow
+type: public
+description: ""
+branches:
+  - name: master
+    type: protected

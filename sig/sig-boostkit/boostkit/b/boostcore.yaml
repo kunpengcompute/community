@@ -1,0 +1,6 @@
+name: boostcore
+type: private
+description: "boostcore"
+branches:
+  - name: master
+    type: protected

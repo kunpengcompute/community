@@ -1,0 +1,6 @@
+name: kvsip
+type: private
+description: "向量信号处理库"
+branches:
+  - name: master
+    type: protected

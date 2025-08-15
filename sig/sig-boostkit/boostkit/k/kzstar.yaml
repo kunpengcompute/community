@@ -1,0 +1,6 @@
+name: kzstar
+type: private
+description: "满足zstd协议的多线程压缩库"
+branches:
+  - name: master
+    type: protected

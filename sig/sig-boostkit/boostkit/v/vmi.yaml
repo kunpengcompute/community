@@ -1,0 +1,6 @@
+name: vmi
+type: public
+description: "使能视频流相关demo源码"
+branches:
+  - name: master
+    type: protected

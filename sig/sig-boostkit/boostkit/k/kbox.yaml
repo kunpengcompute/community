@@ -1,0 +1,6 @@
+name: kbox
+type: public
+description: "使能kbox相关demo、android和OS补丁"
+branches:
+  - name: master
+    type: protected

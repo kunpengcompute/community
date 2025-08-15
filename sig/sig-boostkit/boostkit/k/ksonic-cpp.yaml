@@ -1,0 +1,6 @@
+name: ksonic-cpp
+type: public
+description: "json 序列化反序列化库"
+branches:
+  - name: master
+    type: protected

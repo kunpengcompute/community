@@ -1,0 +1,6 @@
+name: KRL
+type: private
+description: ""
+branches:
+  - name: master
+    type: protected

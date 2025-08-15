@@ -1,0 +1,8 @@
+name: omnioperator
+type: public
+description: "Spark核心向量化算子库。采用Native
+  Code（C/C++）实现大数据SQL算子。首先，以列式内存数据格式OmniVec进行内存计算，同列数据内存连续，提升数据访问性能，充分利用向量化加速。其次，向量化算子采用C++实现，使用向量化执行思想，算子在进行处理时从逐行处理变为逐批处理，更好利用现代CPU的能力。向量化算子拥有更多机会利用CPU中SIMD指令(单指令多数据)和提高CPU
+  Cache命中率进行向量化执行，提升查询性能和有效提升CPU利用率。此外，算子在核心功能处理，如Hash计算以及聚合值计算时，显式调用SVE、NEON指令以及鲲鹏加速库进行加速，能够基于单条指令对多个数据同时进行操作，进一步提升算子处理性能。"
+branches:
+  - name: master
+    type: protected

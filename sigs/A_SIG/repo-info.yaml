@@ -1,6 +1,0 @@
-- name: repo-A
-  description: "this is the description of repo-A"
-  type: public
-  branches:
-    - name: master
-    - name: dev

@@ -1,0 +1,6 @@
+name: boostvirt
+type: private
+description: "虚拟化整体优化方案介绍，优化仓库补丁索引"
+branches:
+  - name: master
+    type: protected
