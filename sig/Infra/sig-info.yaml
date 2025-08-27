@@ -15,7 +15,7 @@ repositories:
       - boostkit/infra
     committers:
       - gitee_id: yao-xiaobai
-          gitcode_id: yao-xiaobai
-          name: 姚孝添
-          organization: huawei
-          email: 176253319000@163.com
+        gitcode_id: yao-xiaobai
+        name: 姚孝添
+        organization: huawei
+        email: 176253319000@163.com
