@@ -12,6 +12,7 @@ maintainers:
 repositories:
   - repo:
       - boostkit/community
+      - boostkit/infra
     committers:
       - gitee_id: yao-xiaobai
           gitcode_id: yao-xiaobai
