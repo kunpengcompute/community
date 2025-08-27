@@ -1,0 +1,6 @@
+name: infra
+type: private
+description: "社区服务配置信息"
+branches:
+  - name: master
+    type: protected
