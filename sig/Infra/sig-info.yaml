@@ -4,8 +4,7 @@ sig_link: https://gitcode.com/BoostKit/community/tree/master/sigs/Infra
 description: ""
 mailing_list: ""
 maintainers:
-  - gitee_id: georgecao
-    gitcode_id: georgecao
+  - gitcode_id: georgecao
     name: 曹志
     organization: huawei
     email: george.cao@huawei.com
@@ -14,8 +13,7 @@ repositories:
       - boostkit/community
       - boostkit/infra
     committers:
-      - gitee_id: yao-xiaobai
-        gitcode_id: yao-xiaobai
+      - gitcode_id: yao-xiaobai
         name: 姚孝添
         organization: huawei
         email: 176253319000@163.com
