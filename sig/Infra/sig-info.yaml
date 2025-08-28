@@ -11,6 +11,7 @@ maintainers:
     email: george.cao@huawei.com
 repositories:
   - repo:
+      - boostkit/infra
       - boostkit/community
     committers:
       - gitee_id: yao-xiaobai
