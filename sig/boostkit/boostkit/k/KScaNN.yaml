@@ -1,6 +1,0 @@
-name: KScaNN
-type: private
-description: ""
-branches:
-  - name: master
-    type: protected

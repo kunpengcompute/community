@@ -1,6 +1,0 @@
-name: cloud-virtual
-type: private
-description: "鲲鹏虚拟化硬件使能以及加速qemu-kvm以及libvirt补丁。"
-branches:
-  - name: master
-    type: protected

@@ -1,6 +1,0 @@
-name: boostbox
-type: public
-description: "云手机整体技术方案介绍，kbox&vmi仓库索引"
-branches:
-  - name: master
-    type: protected

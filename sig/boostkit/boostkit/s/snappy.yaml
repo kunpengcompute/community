@@ -1,6 +1,0 @@
-name: snappy
-type: public
-description: "snappy 压缩解压缩"
-branches:
-  - name: master
-    type: protected

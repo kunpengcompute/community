@@ -1,6 +1,0 @@
-name: KBest
-type: private
-description: ""
-branches:
-  - name: master
-    type: protected

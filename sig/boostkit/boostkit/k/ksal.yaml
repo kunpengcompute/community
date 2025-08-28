@@ -1,6 +1,0 @@
-name: ksal
-type: private
-description: "存储crc32/ec算法库"
-branches:
-  - name: master
-    type: protected

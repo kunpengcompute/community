@@ -1,6 +1,0 @@
-name: libwebp
-type: public
-description: "鲲鹏libwebp的适配和优化"
-branches:
-  - name: master
-    type: protected

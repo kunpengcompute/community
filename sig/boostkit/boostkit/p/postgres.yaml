@@ -1,6 +1,0 @@
-name: postgres
-type: public
-description: "boostkit数据库postgresql加速特性代码仓，原始版本代码+patch方式存放"
-branches:
-  - name: master
-    type: protected

@@ -1,6 +1,0 @@
-name: lz4
-type: public
-description: "lz4压缩解压缩"
-branches:
-  - name: master
-    type: protected

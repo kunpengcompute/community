@@ -1,6 +1,0 @@
-name: zstd
-type: public
-description: "zstd 压缩/解压缩"
-branches:
-  - name: master
-    type: protected

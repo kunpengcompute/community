@@ -1,6 +1,0 @@
-name: ffmpeg
-type: public
-description: "鲲鹏ffmpeg的适配和优化"
-branches:
-  - name: master
-    type: protected

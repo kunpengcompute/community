@@ -1,6 +1,0 @@
-name: omnistatestore
-type: public
-description: "Flink高性能的Flink状态存储引擎"
-branches:
-  - name: master
-    type: protected

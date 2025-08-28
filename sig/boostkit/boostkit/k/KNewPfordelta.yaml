@@ -1,6 +1,0 @@
-name: KNewPfordelta
-type: public
-description: ""
-branches:
-  - name: master
-    type: protected

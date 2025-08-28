@@ -1,6 +1,0 @@
-name: x265
-type: private
-description: "鲲鹏x265编码算子的适配和优化"
-branches:
-  - name: master
-    type: protected

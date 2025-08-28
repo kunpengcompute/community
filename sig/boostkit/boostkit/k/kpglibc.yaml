@@ -1,6 +1,0 @@
-name: kpglibc
-type: public
-description: "memcmp/memset/memcpy/memrchr/strcpy/strcmp/gettimeofday/clock_gettime算子"
-branches:
-  - name: master
-    type: protected

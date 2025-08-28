@@ -1,6 +1,0 @@
-name: milvus
-type: public
-description: "boostkit数据库Milvus加速特性代码"
-branches:
-  - name: master
-    type: protected

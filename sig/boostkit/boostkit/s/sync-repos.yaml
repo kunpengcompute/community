@@ -1,6 +1,0 @@
-name: sync-repos
-type: public
-description: "仅记录迁移代码仓过程，完成迁移后便删除该仓库"
-branches:
-  - name: master
-    type: protected

@@ -1,6 +1,0 @@
-name: htl
-type: private
-description: "轻量级线程库"
-branches:
-  - name: master
-    type: protected

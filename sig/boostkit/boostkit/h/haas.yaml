@@ -1,6 +1,0 @@
-name: haas
-type: private
-description: "硬件亲和算子"
-branches:
-  - name: master
-    type: protected

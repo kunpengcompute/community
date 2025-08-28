@@ -1,6 +1,0 @@
-name: boostsds
-type: public
-description: "BoostKit分布式存储解决方案主页"
-branches:
-  - name: master
-    type: protected

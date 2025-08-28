@@ -1,6 +1,0 @@
-name: mesa
-type: public
-description: "使能云手机图形渲染能力"
-branches:
-  - name: master
-    type: protected

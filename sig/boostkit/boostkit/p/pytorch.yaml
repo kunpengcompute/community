@@ -1,6 +1,0 @@
-name: pytorch
-type: public
-description: "鲲鹏pytorch的适配和优化"
-branches:
-  - name: master
-    type: protected

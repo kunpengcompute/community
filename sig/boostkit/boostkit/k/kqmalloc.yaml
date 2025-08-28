@@ -1,6 +1,0 @@
-name: kqmalloc
-type: public
-description: "低时延内存分配库"
-branches:
-  - name: master
-    type: protected

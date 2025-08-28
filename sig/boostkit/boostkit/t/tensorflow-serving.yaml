@@ -1,6 +1,0 @@
-name: tensorflow-serving
-type: public
-description: ""
-branches:
-  - name: master
-    type: protected

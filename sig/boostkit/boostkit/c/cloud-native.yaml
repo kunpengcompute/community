@@ -1,6 +1,0 @@
-name: cloud-native
-type: private
-description: "鲲鹏云原生领域加速插件"
-branches:
-  - name: master
-    type: protected
