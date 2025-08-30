@@ -2,6 +2,8 @@
 ## 概述
 欢迎来到 `BoostKit` 社区！本文档旨在为不同角色的社区成员提供清晰的操作指南。无论您是代码贡献者、SIG maintainer，还是项目TC成员，都可以在此找到对应的协作流程。
 
+![image.png](https://raw.gitcode.com/user-images/assets/7277284/5d7c75db-7d22-482a-8398-1af4169c4441/image.png 'image.png')
+
 ----
 ## 对于代码贡献者
 ### 一、如何签署  `BoostKit` 社区贡献者许可协议CLA
@@ -68,8 +70,8 @@
 
 1.  **Fork 并创建**：Fork `BoostKit/community` 仓库。参考现有项目的结构，创建新的项目目录并将该文件名称添加 `sig-info.yaml` 文件 ([参考链接](https://gitcode.com/BoostKit/community/blob/master/sig/README.md))。
 2.  **提交 PR**：向 `BoostKit/community` 仓库的 `master` 分支提交 PR
-3.  **通过审查**：此 PR 需获得 `boostkit-cla/yes`, `lgtm`, `approved` 三个标签。其中`lgtm`, `approved`  需要 **TC member**去审批并评论        
-
+3.  **通过审查**：此 PR 需获得 `boostkit-cla/yes`, `lgtm`, `approved` 三个标签。其中`lgtm`, `approved`  需要 **TC member**去审批并评论       
+4. **机器人自动建仓**: PR合入后，机器人会自动创建仓库和分支    
   <br>
 
 ---
