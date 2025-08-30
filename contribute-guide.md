@@ -2,7 +2,7 @@
 ## 概述
 欢迎来到 `BoostKit` 社区！本文档旨在为不同角色的社区成员提供清晰的操作指南。无论您是代码贡献者、SIG maintainer，还是项目TC成员，都可以在此找到对应的协作流程。
 
-![image.png](https://raw.gitcode.com/user-images/assets/7277284/5d7c75db-7d22-482a-8398-1af4169c4441/image.png 'image.png')
+![image.png](https://raw.gitcode.com/user-images/assets/7277284/4b363f69-c7e9-49b4-a1a9-cf38dc991533/image.png 'image.png')
 
 ----
 ## 对于代码贡献者
