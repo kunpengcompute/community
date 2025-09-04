@@ -9,9 +9,9 @@
 ### 一、如何签署  `BoostKit` 社区贡献者许可协议CLA
 
 在参与社区贡献前，您需要签署[BoostKit 社区贡献者许可协议（CLA）](https://clasign.osinfra.cn/sign/68a817711c58932379902043)
-- **个人贡献者**：请选择“签署个人CLA”
-- **企业**：请选择“签署法人CLA”
-- **企业员工**：请选择“法人贡献者登记”，签署后会收到主题是`Signing CLA on project of xx`的邮件，请联系邮件内容里的`Corporation Managers`进行审批    
+- **个人贡献者**：请选择 **签署个人CLA**
+- **企业**：请选择 **签署法人CLA**
+- **企业员工**：请选择 **法人贡献者登记**，签署后会收到主题是`Signing CLA on project of xx`的邮件，请联系邮件内容里的`Corporation Managers`进行审批    
 <br>    
 
 ### 二、如何贡献代码
@@ -22,8 +22,8 @@
 
     - `boostkit-cla/yes`：**CLA协议检查**。机器人会自动检查您 commits 中的邮箱是否已签署 CLA 协议。若已签署，将添加此标签；若未签署，会添加 `boostkit-cla/no` 标签并留言提示
     - `ci-pipeline-passed`：**CI流水线检查**。在 PR 评论区评论 `compile` 以触发 CI。通过后机器人会添加此标签；若失败，则添加 `ci-pipeline-failed` 标签
-    - `lgtm`：**技术评审**。CI 通过后，请联系仓库对应 SIG 组的 `sig-info.yaml` 中指定的 **committers  或者 maintainers **审核，通过后并评论 `/lgtm`
-    - `approved`：**最终批准**。CI 通过后，请联系仓库对应 SIG 组的 `sig-info.yaml` 中指定的 **committers  或者 maintainers **审核，通过后并评论 `/approve`    
+    - `lgtm`：**技术评审**。CI 通过后，请联系仓库对应 SIG 组的 `sig-info.yaml` 中指定的 **committers**  或者 **maintainers** 审核，通过后并评论 `/lgtm`
+    - `approved`：**最终批准**。CI 通过后，请联系仓库对应 SIG 组的 `sig-info.yaml` 中指定的 **committers**  或者 **maintainers** 审核，通过后并评论 `/approve`    
   <br>
 
 
