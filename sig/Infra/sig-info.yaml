@@ -9,7 +9,7 @@ maintainers:
 repositories:
   - repo:
       - boostkit/infra
-      # - boostkit/community
+      - boostkit/community
     committers:
       - gitcode_id: yao-xiaobai
         name: 姚孝添
