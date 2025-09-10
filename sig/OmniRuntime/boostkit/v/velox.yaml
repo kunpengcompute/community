@@ -1,0 +1,6 @@
+name: velox
+type: private
+description: "velox代码仓信息"
+branches:
+  - name: master
+    type: protected
