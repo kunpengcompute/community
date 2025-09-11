@@ -1,0 +1,27 @@
+name: OmniRuntime
+description: ""
+mailing_list: ""
+maintainers:
+  - gitcode_id: weijie-yin
+    name: 尹伟杰
+    organization: huawei
+    email: yinweijie2@huawei.com
+repositories:
+  - repo:
+      - boostkit/omniruntime
+    committers:
+      - gitcode_id: hyy_cyan
+        name: 黄宇扬
+        organization: huawei
+        email: huangyuyang1@huawei.com
+      - gitcode_id: firewalls
+        name: 关文选
+        organization: huawei
+        email: choose_home@126.com
+  - repo:
+      - boostkit/velox
+    committers:
+      - gitcode_id: hyy_cyan
+        name: 黄宇扬
+        organization: huawei
+        email: huangyuyang1@huawei.com

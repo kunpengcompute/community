@@ -1,0 +1,6 @@
+name: omniruntime
+type: public
+description: "omniruntime SIG信息"
+branches:
+  - name: master
+    type: protected
