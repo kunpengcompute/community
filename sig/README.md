@@ -82,5 +82,5 @@ branches:
   - name: master
     type: protected
   - name: dev
-    type: protect
+    type: public
 ```
