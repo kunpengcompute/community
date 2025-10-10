@@ -1,0 +1,6 @@
+name: kbest
+type: private
+description: "Kunpeng Blazing-fast embedding similarity search thruster"
+branches:
+  - name: master
+    type: protected

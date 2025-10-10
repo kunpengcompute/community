@@ -1,0 +1,6 @@
+name: cmf
+type: public
+description: "Cache Management Framework"
+branches:
+  - name: master
+    type: protected
