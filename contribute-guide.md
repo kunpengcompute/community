@@ -21,7 +21,7 @@
 3.  **通过审查与检查**：您的 PR 必须获得以下四个标签才能被合并：
 
     - `boostkit-cla/yes`：**CLA协议检查**。机器人会自动检查您 commits 中的邮箱是否已签署 CLA 协议。若已签署，将添加此标签；若未签署，会添加 `boostkit-cla/no` 标签并留言提示
-    - `ci-pipeline-passed`：**CI流水线检查**。在 PR 评论区评论 `compile` 以触发 CI。通过后机器人会添加此标签；若失败，则添加 `ci-pipeline-failed` 标签
+    - `ci-pipeline-passed`：**CI流水线检查**。在 PR 评论区评论 `compile` 以触发 CI。通过后机器人会添加此标签；若失败，则添加 `ci-pipeline-failed` 标签（根据参考配置）
     - `lgtm`：**技术评审**。CI 通过后，请联系仓库对应 SIG 组的 `sig-info.yaml` 中指定的 **committers**  或者 **maintainers** 审核，通过后并评论 `/lgtm`
     - `approved`：**最终批准**。CI 通过后，请联系仓库对应 SIG 组的 `sig-info.yaml` 中指定的 **committers**  或者 **maintainers** 审核，通过后并评论 `/approve`    
   <br>
