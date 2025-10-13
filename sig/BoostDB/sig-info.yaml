@@ -1,0 +1,27 @@
+name: BoostDB
+description: ""
+mailing_list: ""
+maintainers:
+  - gitcode_id: chen-guang-wang
+    name: 王晨光
+    organization: huawei
+    email: wangdaminger@qq.com
+  - gitcode_id: hazdzy
+    name: 胡义臻
+    organization: huawei
+    email: huyizhen2024@163.com
+  - gitcode_id: xurr2020
+    name: 许荣荣
+    organization: huawei
+    email: nbuxrr@139.com
+repositories:
+  - repo:
+      - boostkit/kraio
+      - boostkit/redis
+      - boostkit/mysql
+      - boostkit/mysql-server
+    committers:
+      - gitcode_id: zhengyuanyue
+        name: 郑渊悦
+        organization: huawei
+        email: im_zyy@hotmail.com
