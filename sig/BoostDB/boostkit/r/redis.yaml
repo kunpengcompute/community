@@ -1,0 +1,8 @@
+name: redis
+type: private
+description: ""
+branches:
+  - name: master
+    type: public
+  - name: Redis-7.0.15
+    type: public

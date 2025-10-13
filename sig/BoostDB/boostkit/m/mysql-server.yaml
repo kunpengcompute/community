@@ -1,0 +1,36 @@
+name: mysql-server
+type: private
+description: ""
+branches:
+  - name: master
+    type: public
+  - name: OpenScan
+    type: public
+  - name: mysql8.0.25-sqlbypass
+    type: public
+  - name: mysql8.0.25-kaezstd
+    type: public
+  - name: mysql8.0.25-thread-pool
+    type: public
+  - name: mysql8.0.25-pq
+    type: public
+  - name: mysql_8.0.32_uwal
+    type: public
+  - name: mysql_8.0.32
+    type: public
+  - name: 8.0.35-thread-pool
+    type: public
+  - name: mysql8.0.25-crc32
+    type: public
+  - name: mysql8.0.30-thread-pool
+    type: public
+  - name: mysql8.0.20-bloom-filter
+    type: public
+  - name: mysql-8.0.25-thread-count-optimization
+    type: public
+  - name: mysql8.0.25-sched-affinity
+    type: public
+  - name: mysql8.0.25-plan-cache
+    type: public
+  - name: mysql8.0.25
+    type: public
