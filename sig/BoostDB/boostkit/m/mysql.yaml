@@ -1,0 +1,12 @@
+name: mysql
+type: private
+description: ""
+branches:
+  - name: master
+    type: public
+  - name: MySQL-Percona-Server-5.7.44-53
+    type: public
+  - name: MySQL-8.0.32
+    type: public
+  - name: MySQL-8.0.36
+    type: public
