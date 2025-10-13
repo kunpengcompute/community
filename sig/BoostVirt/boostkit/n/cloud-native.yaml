@@ -1,0 +1,6 @@
+name: cloud-native
+type: public
+description: "cloud-native SIG信息"
+branches:
+  - name: master
+    type: protected

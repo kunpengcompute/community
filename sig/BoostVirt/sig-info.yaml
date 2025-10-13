@@ -1,0 +1,31 @@
+name: BoostVirt
+description: ""
+mailing_list: ""
+maintainers:
+  - gitcode_id: youhwsh
+    name: 王有航
+    organization: huawei
+    email: youhangwang@foxmail.com
+  - gitcode_id: hotwell
+    name: 陈伟
+    organization: huawei
+    email: weichen618@sina.com
+  - gitcode_id: juneuu
+    name: 陈丽君
+    organization: huawei
+    email: chenlijun42@huawei.com
+repositories:
+  - repo:
+      - boostkit/cloud-virtual
+    committers:
+      - gitcode_id: xxd-xiaodong_sp
+        name: 谢晓东
+        organization: huawei
+        email: 624338359@qq.com
+  - repo:
+      - boostkit/cloud-native
+    committers:
+      - gitcode_id: yuncongyue
+        name: 刘雨晴
+        organization: huawei
+        email: liuyuqing39@huawei.com
