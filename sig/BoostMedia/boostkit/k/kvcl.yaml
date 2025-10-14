@@ -1,0 +1,6 @@
+name: kvcl
+type: private
+description: "kvcl SIG信息"
+branches:
+  - name: master
+    type: protected

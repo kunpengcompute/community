@@ -14,12 +14,12 @@ repositories:
   - repo:
       - boostkit/Kbox
       - boostkit/vmi
+      - boostkit/mesa
     committers:
       - gitcode_id: maoyue5
         name: 毛越
         organization: huawei
         email: maoyue5@huawei.com
-    committers:
       - gitcode_id: lindv
         name: 黄浩纯
         organization: huawei

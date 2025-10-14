@@ -1,0 +1,30 @@
+name: BoostMedia
+description: ""
+mailing_list: ""
+maintainers:
+  - gitcode_id: lianqiye
+    name: 练启业
+    organization: huawei
+    email: lianqiye@huawei.com
+  - gitcode_id: rebecca-liu66
+    name: 刘玉
+    organization: huawei
+    email: liuyu3@huawei.com
+repositories:
+  - repo:
+      - boostkit/libavif
+      - boostkit/libwebp
+      - boostkit/ffmpeg
+      - boostkit/opencv
+      - boostkit/vision
+      - boostkit/x265
+      - boostkit/kvcl
+    committers:
+      - gitcode_id: huang-wen-jie
+        name: 黄文杰
+        organization: huawei
+        email: huangwenjie16@huawei.com
+      - gitcode_id: TiercelChow
+        name: 周宇琛
+        organization: huawei
+        email: tiercelchow@qq.com
