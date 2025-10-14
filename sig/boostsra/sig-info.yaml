@@ -1,0 +1,29 @@
+name: boostsra
+description: "鲲鹏BoostKit搜推广使能套件旨在为互联网搜索、推荐、广告业务场景提供基于鲲鹏平台的应用层加速能力，组件涵盖召回场景核心检索算法、排序场景模型推理软件框架优化"
+mailing_list: ""
+maintainers:
+  - gitcode_id: wujunhaoo
+    name: 吴俊豪
+    organization: huawei
+    email: wujunhao4@huawei.com
+maintainers:
+  - gitcode_id: lauyarn
+    name: 刘阳
+    organization: huawei
+    email: liuyang645@huawei.com
+repositories:
+  - repo:
+      - boostkit/boostsra
+      - boostkit/tensorflow
+      - boostkit/tensorflow-serving
+      - boostkit/kdnn
+      - boostkit/kbest
+      - boostkit/kscann
+      - boostkit/kvecturbo
+      - boostkit/knewpfordelta
+      - boostkit/krl
+      - boostkit/faiss
+      - boostkit/hnswlib
+      - boostkit/vllm-ops
+      - boostkit/vllm_router
+      - boostkit/cmf

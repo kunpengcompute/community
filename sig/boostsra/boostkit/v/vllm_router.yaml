@@ -1,0 +1,6 @@
+name: vllm_router
+type: private
+description: "vllm数据并行插件"
+branches:
+  - name: master
+    type: protected

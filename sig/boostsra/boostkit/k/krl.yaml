@@ -1,0 +1,6 @@
+name: krl
+type: private
+description: "Kunpeng Retrieval Library"
+branches:
+  - name: master
+    type: protected

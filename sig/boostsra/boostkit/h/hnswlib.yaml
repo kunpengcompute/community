@@ -1,0 +1,6 @@
+name: hnswlib
+type: private
+description: "hnswlib 优化"
+branches:
+  - name: master
+    type: protected

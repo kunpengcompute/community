@@ -1,0 +1,6 @@
+name: kdnn
+type: private
+description: "Kunpeng Artificial Intelligence Library"
+branches:
+  - name: master
+    type: protected

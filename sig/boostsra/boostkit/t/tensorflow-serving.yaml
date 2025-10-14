@@ -1,0 +1,6 @@
+name: tensorflow-serving
+type: public
+description: "tensorflow-serving 优化"
+branches:
+  - name: master
+    type: protected

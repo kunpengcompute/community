@@ -1,0 +1,6 @@
+name: boostsra
+type: public
+description: "BoostSRA 主页"
+branches:
+  - name: master
+    type: protected

@@ -1,0 +1,6 @@
+name: kvecturbo
+type: public
+description: "向量检索加速组件kvecturbo"
+branches:
+  - name: master
+    type: protected
