@@ -1,0 +1,6 @@
+name: Kbox
+type: public
+description: "Kbox SIG信息"
+branches:
+  - name: AOSP11
+    type: protected

@@ -1,0 +1,6 @@
+name: vmi
+type: public
+description: "vmi SIG信息"
+branches:
+  - name: CloudPhone
+    type: protected
