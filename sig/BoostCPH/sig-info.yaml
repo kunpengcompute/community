@@ -1,0 +1,26 @@
+name: BoostCPH
+description: ""
+mailing_list: ""
+maintainers:
+  - gitcode_id: lianqiye
+    name: 练启业
+    organization: huawei
+    email: lianqiye@huawei.com
+  - gitcode_id: rebecca-liu66
+    name: 刘玉
+    organization: huawei
+    email: liuyu3@huawei.com
+repositories:
+  - repo:
+      - boostkit/Kbox
+      - boostkit/vmi
+    committers:
+      - gitcode_id: maoyue5
+        name: 毛越
+        organization: huawei
+        email: maoyue5@huawei.com
+    committers:
+      - gitcode_id: lindv
+        name: 黄浩纯
+        organization: huawei
+        email: huanghaochun@huawei.com
