@@ -1,0 +1,8 @@
+name: lz4
+type: public
+description: "lz4 SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: aarch64-1.9.4
+    type: public

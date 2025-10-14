@@ -1,0 +1,8 @@
+name: folly
+type: public
+description: "folly SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: aarch64-v2022.11.14.00
+    type: public

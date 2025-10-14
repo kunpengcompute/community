@@ -1,0 +1,31 @@
+name: BoostCore
+description: ""
+mailing_list: ""
+maintainers:
+  - gitcode_id: lauyarn
+    name: 刘阳
+    organization: huawei
+    email: liuyang645@huawei.com
+maintainers:
+  - gitcode_id: fan-zhenhao
+    name: 樊振豪
+    organization: huawei
+    email: fanzhenhao@huawei.com
+maintainers:
+  - gitcode_id: wujunhaoo
+    name: 吴俊豪
+    organization: huawei
+    email: wujunhao4@huawei.com
+repositories:
+  - repo:
+      - boostkit/KAE
+      - boostkit/zstd
+      - boostkit/lz4
+      - boostkit/snappy
+      - boostkit/folly
+      - boostkit/protobuf
+      committers:
+      - gitcode_id: gong-xiaoting
+        name: 龚晓婷
+        organization: huawei
+        email: gongxiaoting@huawei.com
