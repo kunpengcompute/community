@@ -1,0 +1,8 @@
+name: snappy
+type: public
+description: "snappy SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: aarch64-1.1.10
+    type: public

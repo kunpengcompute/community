@@ -1,0 +1,10 @@
+name: KAE
+type: public
+description: "KAE SIG信息"
+branches:
+  - name: kae1
+    type: public
+  - name: kae2
+    type: public
+  - name: dev_kae2_for_ByteDance
+    type: public
