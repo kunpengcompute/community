@@ -23,3 +23,7 @@ repositories:
         name: 陈丽君
         organization: huawei
         email: chenlijun42@huawei.com
+      - gitcode_id: lauyarn
+        name: 刘阳
+        organization: huawei
+        email: liuyang645@huawei.com
