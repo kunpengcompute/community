@@ -10,5 +10,5 @@
 |         `/unassign`      |`/unassign ` <br> `/unassign @boostkit-bot`|     取消分配一个`Issue`负责人。      |    任何人都能在一个`Issue`上触发这种命令    |
 |         `/close`           |                                  `/close`                           |    关闭一个Pull Request或者Issue。      |    作者和SIG成员   |
 |         `/reopen`        |                                  `/reopen`                       |   重新打开一个Issue。                           |    作者和SIG成员   |
-|         `/rebase`        |     `/rebase ` <br> `/rebase cancel`    |   PR 以 rebase 方式合入(或取消)                         |    SIG成员   |
-|         `/squash`        |     `/squash ` <br> `/squash cancel`    |   PR 以 squash 方式合入(或取消)                         |    SIG成员   |
+|         `/rebase`        |     `/rebase ` <br> `/rebase cancel`    |   添加(或取消)	`merge/rebase` 标签， PR 以 rebase 方式合入(或取消)                         |    SIG成员   |
+|         `/squash`        |     `/squash ` <br> `/squash cancel`    |   添加(或取消)	`merge/squash` 标签， PR 以 squash 方式合入(或取消)                    |    SIG成员   |
