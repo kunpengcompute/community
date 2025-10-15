@@ -1,0 +1,6 @@
+name: mesa
+type: public
+description: "mesa SIG信息"
+branches:
+  - name: master
+    type: protected

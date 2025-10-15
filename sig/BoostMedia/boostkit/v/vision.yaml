@@ -1,0 +1,6 @@
+name: vision
+type: public
+description: "vision SIG信息"
+branches:
+  - name: master
+    type: protected

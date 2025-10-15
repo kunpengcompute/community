@@ -1,0 +1,6 @@
+name: x265
+type: private
+description: "x265 SIG信息"
+branches:
+  - name: master
+    type: protected

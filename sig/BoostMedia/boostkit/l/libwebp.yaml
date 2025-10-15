@@ -1,0 +1,6 @@
+name: libwebp
+type: public
+description: "libwebp SIG信息"
+branches:
+  - name: master
+    type: protected
