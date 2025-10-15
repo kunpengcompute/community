@@ -1,0 +1,12 @@
+name: waas
+type: public
+description: "waas SIG信息"
+branches:
+  - name: master
+    type: protected
+  - name: waasbooster
+    type: protected
+  - name: waastuner
+    type: protected
+  - name: waasagent
+    type: protected
