@@ -1,5 +1,5 @@
 name: vllm_router
-type: private
+type: public
 description: "vllm数据并行插件"
 branches:
   - name: master

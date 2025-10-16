@@ -1,5 +1,5 @@
 name: hnswlib
-type: private
+type: public
 description: "hnswlib 优化"
 branches:
   - name: master
