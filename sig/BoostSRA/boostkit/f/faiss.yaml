@@ -1,5 +1,5 @@
 name: faiss
-type: private
+type: public
 description: "faiss 优化"
 branches:
   - name: master

@@ -1,5 +1,5 @@
 name: vllm-ops
-type: private
+type: public
 description: "vllm在鲲鹏平台上推理性能加速"
 branches:
   - name: master
