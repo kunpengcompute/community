@@ -29,3 +29,10 @@ repositories:
         name: 刘雨晴
         organization: huawei
         email: liuyuqing39@huawei.com
+  - repo:
+      - boostkit/MicroservicesBench
+    committers:
+      - gitcode_id: yuncongyue
+        name: 刘雨晴
+        organization: huawei
+        email: liuyuqing39@huawei.com
