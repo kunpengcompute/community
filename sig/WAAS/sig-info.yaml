@@ -22,3 +22,7 @@ repositories:
         name: 姬广森
         organization: huawei
         email: jiguangsen1998@126.com
+      - gitcode_id: jiazhongfeng1
+        name: 贾忠锋
+        organization: huawei
+        email: jiazhongfeng1@huawei.com
