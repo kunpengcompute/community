@@ -17,7 +17,23 @@ repositories:
       - gitcode_id: firewalls
         name: 关文选
         organization: huawei
-        email: choose_home@126.com
+        email: guanwenxuan@huawei.com
+      - gitcode_id: fengxiao21
+        name: 冯骁
+        organization: huawei
+        email: fengxiao21@huawei.com
+      - gitcode_id: ZhangweiTiger
+        name: 张巍
+        organization: huawei
+        email: 2319515477@qq.com
+      - gitcode_id: luodan_000
+        name: 罗旦
+        organization: huawei
+        email: luodan2@huawei.com           
+      - gitcode_id: copperybean
+        name: 张志宏
+        organization: huawei
+        email: 122244799@qq.com           
   - repo:
       - boostkit/velox
     committers:
@@ -25,3 +41,23 @@ repositories:
         name: 黄宇扬
         organization: huawei
         email: huangyuyang1@huawei.com
+      - gitcode_id: firewalls
+        name: 关文选
+        organization: huawei
+        email: guanwenxuan@huawei.com
+      - gitcode_id: fengxiao21
+        name: 冯骁
+        organization: huawei
+        email: fengxiao21@huawei.com
+      - gitcode_id: ZhangweiTiger
+        name: 张巍
+        organization: huawei
+        email: 2319515477@qq.com
+      - gitcode_id: luodan_000
+        name: 罗旦
+        organization: huawei
+        email: luodan2@huawei.com           
+      - gitcode_id: copperybean
+        name: 张志宏
+        organization: huawei
+        email: 122244799@qq.com
