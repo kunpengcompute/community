@@ -1,0 +1,22 @@
+name: BoostSDS
+description: ""
+mailing_list: ""
+maintainers:
+  - gitcode_id: Enigmo-x
+    name: 郭涛玮
+    organization: huawei
+    email: guotaowei4@huawei.com
+  - gitcode_id: gcw_EWjwOxAK
+    name: 吴伟男
+    organization: huawei
+    email: wuwn1206@126.com
+repositories:
+  - repo:
+      - boostkit/rocksdb
+      - boostkit/3FS
+      - boostkit/ceph
+    committers:
+      - gitcode_id: inky
+        name: 沈晨阳
+        organization: huawei
+        email: shenchenyang1@hisilicon.com
