@@ -1,0 +1,7 @@
+name: 3FS
+type: public
+description: "3FS SIG信息"
+branches:
+  - name: master
+    type: protected
+
