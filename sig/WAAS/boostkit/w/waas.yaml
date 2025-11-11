@@ -6,8 +6,9 @@ branches:
     type: protected
   - name: waasbooster
     type: protected
-  - name: waastuner
+  - name: waascodeploy
     type: protected
+    create_from: master
   - name: waasagent
     type: protected
     create_from: master
