@@ -1,0 +1,6 @@
+name: QA
+type: public
+description: "QA SIG信息"
+branches:
+  - name: master
+    type: protected
