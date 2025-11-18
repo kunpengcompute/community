@@ -6,3 +6,19 @@ maintainers:
     name: 孟杰
     organization: huawei
     email: mengjiefamily@163.com
+repositories:
+  - repo:
+      - boostkit/QA
+    committers:
+      - gitcode_id: lishutian
+        name: 李述田
+        organization: huawei
+        email: lishutian1@huawei.com
+      - gitcode_id: zhangli257
+        name: 张莉
+        organization: huawei
+        email: zhangli257@huawei.com
+      - gitcode_id: lcxzydhyy
+        name: 李春香
+        organization: huawei
+        email: lcxzydhyy@163.com
