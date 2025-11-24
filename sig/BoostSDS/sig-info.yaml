@@ -15,6 +15,7 @@ repositories:
       - boostkit/rocksdb
       - boostkit/3FS
       - boostkit/ceph
+      - boostkit/isa-l
     committers:
       - gitcode_id: inky
         name: 沈晨阳
