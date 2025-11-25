@@ -6,7 +6,7 @@ maintainers:
     name: 郭涛玮
     organization: huawei
     email: guotaowei4@huawei.com
-  - gitcode_id: gcw_EWjwOxAK
+  - gitcode_id: wuweinan
     name: 吴伟男
     organization: huawei
     email: wuwn1206@126.com
@@ -17,7 +17,7 @@ repositories:
       - boostkit/ceph
       - boostkit/isa-l
     committers:
-      - gitcode_id: inky
+      - gitcode_id: injy
         name: 沈晨阳
         organization: huawei
         email: shenchenyang1@hisilicon.com
