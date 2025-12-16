@@ -1,0 +1,6 @@
+name: kaot
+type: public
+description: "鲲鹏自动调优工具"
+branches:
+  - name: master
+    type: protected
