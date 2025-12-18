@@ -1,0 +1,20 @@
+name: OptiToolkit
+description: ""
+mailing_list: ""
+maintainers:
+  - gitcode_id: jianmin_gc
+    name: 黄剑敏
+    organization: huawei
+    email: huangjianmin@huawei.com
+  - gitcode_id: u013217006
+    name: 郭焕亮
+    organization: huawei
+    email: guohuanliang@huawei.com
+repositories:
+  - repo:
+      - boostkit/kaot
+    committers:
+      - gitcode_id: u013217006
+        name: 郭焕亮
+        organization: huawei
+        email: guohuanliang@huawei.com
