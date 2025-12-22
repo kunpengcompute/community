@@ -16,6 +16,7 @@ repositories:
       - boostkit/tensorflow
       - boostkit/tensorflow-serving
       - boostkit/kdnn
+      - boostkit/monolith
       - boostkit/kbest
       - boostkit/kscann
       - boostkit/kvecturbo
