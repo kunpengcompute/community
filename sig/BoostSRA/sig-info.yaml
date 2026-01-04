@@ -24,6 +24,7 @@ repositories:
       - boostkit/krl
       - boostkit/faiss
       - boostkit/hnswlib
+      - boostkit/rabitq
       - boostkit/vllm-ops
       - boostkit/vllm_router
       - boostkit/cmf

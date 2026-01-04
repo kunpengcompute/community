@@ -1,0 +1,6 @@
+name: rabitq
+type: public
+description: "rabitq优化"
+branches:
+  - name: master
+    type: protected
