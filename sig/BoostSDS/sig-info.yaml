@@ -16,6 +16,7 @@ repositories:
       - boostkit/3FS
       - boostkit/ceph
       - boostkit/isa-l
+      - boostkit/reedsolomon
     committers:
       - gitcode_id: injy
         name: 沈晨阳
