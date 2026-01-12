@@ -1,0 +1,16 @@
+name: hyperscan
+type: public
+description: "hyperscan SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: aarch64
+    type: public
+  - name: dev
+    type: public
+  - name: dev_neo
+    type: public
+  - name: khsel_branch
+    type: public
+  - name: khsel
+    type: public
