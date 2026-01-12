@@ -14,6 +14,10 @@ maintainers:
     name: 吴俊豪
     organization: huawei
     email: wujunhao4@huawei.com
+  - gitcode_id: gong-xiaoting
+    name: 龚晓婷
+    organization: huawei
+    email: gongxiaoting@huawei.com
 repositories:
   - repo:
       - boostkit/KAE
@@ -23,6 +27,8 @@ repositories:
       - boostkit/folly
       - boostkit/protobuf
       - boostkit/hyperscan
+      - boostkit/KDADK-APPID
+      - boostkit/KDADK-TOOLS
     committers:
       - gitcode_id: gong-xiaoting
         name: 龚晓婷
