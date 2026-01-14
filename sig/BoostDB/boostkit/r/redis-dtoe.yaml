@@ -1,0 +1,6 @@
+name: redis-dtoe
+type: private
+description: ""
+branches:
+  - name: master
+    type: public
