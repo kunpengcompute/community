@@ -18,7 +18,10 @@ repositories:
   - repo:
       - boostkit/kraio
       - boostkit/redis
+      - boostkit/redis-dtoe
+      - boostkit/rocksdb
       - boostkit/mysql
+      - boostkit/mysql-gbp
       - boostkit/mysql-server
     committers:
       - gitcode_id: zhengyuanyue
