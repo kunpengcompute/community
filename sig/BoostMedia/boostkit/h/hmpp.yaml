@@ -1,0 +1,6 @@
+name: hmpp
+type: private
+description: "hmpp SIG信息"
+branches:
+  - name: master
+    type: protected

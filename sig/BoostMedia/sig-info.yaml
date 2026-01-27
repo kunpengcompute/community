@@ -19,12 +19,9 @@ repositories:
       - boostkit/vision
       - boostkit/x265
       - boostkit/kvcl
+      - boostkit/hmpp
     committers:
       - gitcode_id: huang-wen-jie
         name: 黄文杰
         organization: huawei
         email: huangwenjie16@huawei.com
-      - gitcode_id: TiercelChow
-        name: 周宇琛
-        organization: huawei
-        email: tiercelchow@qq.com
