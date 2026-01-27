@@ -1,0 +1,7 @@
+name: reedsolomon
+type: public
+description: "reedsolomon SIG信息"
+branches:
+  - name: master
+    type: protected
+

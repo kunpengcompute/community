@@ -10,12 +10,17 @@ maintainers:
     name: 刘阳
     organization: huawei
     email: liuyang645@huawei.com
+  - gitcode_id: RuanDing
+    name: 阮定
+    organization: huawei
+    email: ruanding@huawei.com
 repositories:
   - repo:
       - boostkit/boostsra
       - boostkit/tensorflow
       - boostkit/tensorflow-serving
       - boostkit/kdnn
+      - boostkit/monolith
       - boostkit/kbest
       - boostkit/kscann
       - boostkit/kvecturbo
@@ -23,6 +28,7 @@ repositories:
       - boostkit/krl
       - boostkit/faiss
       - boostkit/hnswlib
+      - boostkit/rabitq
       - boostkit/vllm-ops
       - boostkit/vllm_router
       - boostkit/cmf

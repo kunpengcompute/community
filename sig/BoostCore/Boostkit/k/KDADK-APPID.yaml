@@ -1,0 +1,6 @@
+name: KDADK-APPID
+type: public
+description: "KDADK SIG信息"
+branches:
+  - name: master
+    type: public
