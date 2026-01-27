@@ -1,0 +1,72 @@
+name: Security
+description: ""
+mailing_list: ""
+maintainers:
+  - gitcode_id: Shunrei
+    name: 张春丽
+    organization: huawei
+    email: zhangchunli9@huawei.com
+  - gitcode_id: Endfromhere
+    name: 陈启军
+    organization: huawei
+    email: Endfromhere@noreply.gitcode.com
+  - gitcode_id: RuanDing
+    name: 阮定
+    organization: huawei
+    email: ruanding@huawei.com
+repositories:
+  - repo:
+      - boostkit/Security
+    committers:
+      - gitcode_id: coolsunss
+        name: 鲍鹏
+        organization: huawei
+        email: coolsunss@noreply.gitcode.com
+      - gitcode_id: lh-11
+        name: 李海
+        organization: huawei
+        email: lihai44@huawei.com
+      - gitcode_id: whshahaha
+        name: 汪恒生
+        organization: huawei
+        email: wanghengsheng4@huawei.com
+      - gitcode_id: ljw_kent
+        name: 李锦威
+        organization: huawei
+        email: 470921944@qq.com
+      - gitcode_id: weiaq
+        name: 韦安琪
+        organization: huawei
+        email: weianqi1@huawei.com
+      - gitcode_id: Excef
+        name: 冯上清
+        organization: huawei
+        email: 1218424633@qq.com
+      - gitcode_id: GOD_CHT
+        name: 陈海涛
+        organization: huawei
+        email: 765917163@qq.com
+      - gitcode_id: jiazhongfeng1
+        name: 贾忠锋
+        organization: huawei
+        email: jiazhongfeng1@huawei.com
+      - gitcode_id: huang-wen-jie
+        name: 黄文杰
+        organization: huawei
+        email: huangwenjie16@huawei.com
+      - gitcode_id: codesheepchen
+        name: 陈嘉珣
+        organization: huawei
+        email: chenjiaxun2@163.com
+      - gitcode_id: autumn_94
+        name: 包旻晨
+        organization: huawei
+        email: minchen_bao@foxmail.com
+      - gitcode_id: nonces
+        name: 付炬
+        organization: huawei
+        email: 2774337358@qq.com
+      - gitcode_id: lindv
+        name: 黄浩纯
+        organization: huawei
+        email: huanghaochun@huawei.com
