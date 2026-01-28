@@ -6,3 +6,4 @@ branches:
     type: protected
   - name: 4.10.0-dev
     type: protected
+    create_from: master
