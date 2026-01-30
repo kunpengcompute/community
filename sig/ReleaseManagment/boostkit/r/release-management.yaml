@@ -1,4 +1,4 @@
-name: QA
+name: release-management
 type: public
 description: "Release Managment SIG信息"
 branches:
