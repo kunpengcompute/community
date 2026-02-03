@@ -18,6 +18,8 @@ repositories:
       - boostkit/isa-l
       - boostkit/reedsolomon
       - boostkit/SegmentCache
+      - boostkit/mooncake
+      - boostkit/LMCache
     committers:
       - gitcode_id: injy
         name: 沈晨阳

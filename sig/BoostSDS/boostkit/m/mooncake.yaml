@@ -1,0 +1,7 @@
+name: mooncake
+type: public
+description: "mooncake SIG信息"
+branches:
+  - name: master
+    type: protected
+
