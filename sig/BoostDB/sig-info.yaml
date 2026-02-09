@@ -17,7 +17,7 @@ maintainers:
 repositories:
   - repo:
       - boostkit/kraio
-      - boostkit/redis
+      - boostkit/Redis
       - boostkit/redis-dtoe
       - boostkit/rocksdb
       - boostkit/mysql
