@@ -32,3 +32,4 @@ repositories:
       - boostkit/vllm-ops
       - boostkit/vllm_router
       - boostkit/cmf
+      - boostkit/flash-engram
