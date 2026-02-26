@@ -10,6 +10,11 @@ repositories:
   - repo:
       - boostkit/omniruntime
       - boostkit/velox
+      - boostkit/OmniAdaptor
+      - boostkit/OmniOperator
+      - boostkit/OmniStream
+      - boostkit/Gluten
+      - boostkit/OmniStateStore
     committers:
       - gitcode_id: hyy_cyan
         name: 黄宇扬
