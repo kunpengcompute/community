@@ -1,0 +1,6 @@
+name: Gluten
+type: public
+description: "Gluten SIG信息"
+branches:
+  - name: master
+    type: protected

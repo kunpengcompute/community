@@ -1,0 +1,6 @@
+name: OmniOperator
+type: public
+description: "OmniOperator SIG信息"
+branches:
+  - name: master
+    type: protected
