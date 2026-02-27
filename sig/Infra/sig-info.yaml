@@ -27,3 +27,7 @@ repositories:
         name: 刘阳
         organization: huawei
         email: liuyang645@huawei.com
+      - gitcode_id: zwjsec
+        name: 翟文杰
+        organization: huawei
+        email: zhaiwenjie1@huawei.com
