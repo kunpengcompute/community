@@ -19,6 +19,7 @@ repositories:
       - boostkit/boostsra
       - boostkit/tensorflow
       - boostkit/tensorflow-serving
+      - boostkit/tensorrt-llm
       - boostkit/kdnn
       - boostkit/monolith
       - boostkit/kbest
