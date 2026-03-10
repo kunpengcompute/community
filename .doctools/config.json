@@ -1,0 +1,22 @@
+{
+  "name": "boostkit文档检查配置",
+  "config": {
+    "base": {
+      "docPath": "docs",
+      "markdownlintRemoteConfigUrl": "https://raw.gitcode.com/boostkit/community/raw/master/.doctools/markdownlint.config.json",
+      "linkValidityCheckRemoteWhitelistUrl": "https://raw.gitcode.com/boostkit/community/raw/master/.doctools/url.whitelist.json",
+      "resourceExistenceCheckRemoteWhitelistUrl": "https://raw.gitcode.com/boostkit/community/raw/master/.doctools/url.whitelist.json",
+      "ci": [
+        "markdownlint",
+        "tag-closed-check",
+        "link-validity-check",
+        "resource-existence-check"
+      ]
+    }
+  },
+  "repo": {
+    "boostkit/opencv": {
+      "extendConfig": "base"
+    }
+  }
+}
