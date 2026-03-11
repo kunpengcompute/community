@@ -1,0 +1,28 @@
+name: Doc
+description: ""
+mailing_list: ""
+maintainers:
+  - gitcode_id: gengxueping
+    name: 耿雪萍
+    organization: huawei
+    email: gengxueping@huawei.com
+  - gitcode_id: FlussGold
+    name: 魏圣凌
+    organization: huawei
+    email: weishengling@huawei.com
+repositories:
+  - repo:
+      - boostkit/Doc
+    committers:
+      - gitcode_id: congzhaohw
+        name: 赵聪
+        organization: huawei
+        email: zhaocong2@@huawei.com
+      - gitcode_id: qiuqianhw
+        name: 邱仟
+        organization: huawei
+        email: qiuqian6@huawei.com
+      - gitcode_id: Jane_W
+        name: 魏婧涵
+        organization: huawei
+        email: weijinghan@huawei.com
