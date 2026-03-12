@@ -1,0 +1,10 @@
+name: kvrocks
+type: public
+description: ""
+branches:
+  - name: master
+    type: public
+  - name: kvrocks-proxy
+    type: public
+  - name: kvrocks-datanode
+    type: public
