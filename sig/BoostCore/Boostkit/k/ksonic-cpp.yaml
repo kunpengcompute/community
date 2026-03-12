@@ -1,0 +1,6 @@
+name: ksonic-cpp
+type: private
+description: "ksonic-cpp SIG信息"
+branches:
+  - name: master
+    type: public

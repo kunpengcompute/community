@@ -1,0 +1,6 @@
+name: haas
+type: private
+description: "haas SIG信息"
+branches:
+  - name: master
+    type: public
