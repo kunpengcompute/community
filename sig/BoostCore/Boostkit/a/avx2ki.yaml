@@ -1,0 +1,6 @@
+name: avx2ki
+type: private
+description: "avx2ki SIG信息"
+branches:
+  - name: master
+    type: public

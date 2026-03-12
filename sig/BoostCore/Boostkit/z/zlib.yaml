@@ -1,0 +1,8 @@
+name: zlib
+type: public
+description: "zlib SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: dev_v1.2.12
+    type: public

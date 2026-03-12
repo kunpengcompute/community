@@ -1,0 +1,8 @@
+name: suricata
+type: public
+description: "suricata SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: suricata-7.0.8-dadk
+    type: public
