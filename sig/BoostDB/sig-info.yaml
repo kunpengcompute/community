@@ -17,6 +17,7 @@ maintainers:
 repositories:
   - repo:
       - boostkit/kraio
+      - boostkit/kvrocks
       - boostkit/Redis
       - boostkit/redis-dtoe
       - boostkit/rocksdb
@@ -28,3 +29,11 @@ repositories:
         name: 郑渊悦
         organization: huawei
         email: im_zyy@hotmail.com
+      - gitcode_id: seekdwh
+        name: 董为浩
+        organization: huawei
+        email: 707264794@qq.com
+      - gitcode_id: wupei
+        name: 吴沛
+        organization: huawei
+        email: 644210294@qq.com
