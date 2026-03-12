@@ -33,6 +33,17 @@ repositories:
       - boostkit/hyperscan
       - boostkit/KDADK-APPID
       - boostkit/KDADK-TOOLS
+      - boostkit/KUAF
+      - boostkit/haas
+      - boostkit/htl
+      - boostkit/zlib
+      - boostkit/ksonic-cpp
+      - boostkit/kqmalloc
+      - boostkit/avx2ki
+      - boostkit/kpglibc
+      - boostkit/suricata
+      - boostkit/MicroservicesBench
+      - boostkit/goservicesopt
     committers:
       - gitcode_id: gong-xiaoting
         name: 龚晓婷
