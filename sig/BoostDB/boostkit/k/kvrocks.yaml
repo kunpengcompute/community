@@ -6,5 +6,10 @@ branches:
     type: public
   - name: kvrocks-proxy
     type: public
+    create_from: master
   - name: kvrocks-datanode
     type: public
+    create_from: master
+  - name: kvrocks-2.2
+    type: public
+    create_from: master
