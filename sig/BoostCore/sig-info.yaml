@@ -22,6 +22,10 @@ maintainers:
     name: 廖思睿
     organization: huawei
     email: liaosirui@outlook.com
+  - gitcode_id: huang-xiaoquan
+    name: 黄晓权
+    organization: huawei
+    email: huangxiaoquan1@huawei.com
 repositories:
   - repo:
       - boostkit/KAE
@@ -53,3 +57,7 @@ repositories:
         name: 姬广森
         organization: huawei
         email: jiguangsen1998@126.com
+      - gitcode_id: gcw_NiLAcrhi
+        name: 张学磊
+        organization: huawei
+        email: zhangxuelei4@huawei.com
