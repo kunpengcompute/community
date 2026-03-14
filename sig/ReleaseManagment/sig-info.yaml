@@ -16,7 +16,7 @@ maintainers:
     email: weihaobin1@h-partners.com
 repositories:
   - repo:
-      - boostkit/ReleaseManagment
+      - boostkit/release-management
     committers:
       - gitcode_id: lishutian
         name: 李述田

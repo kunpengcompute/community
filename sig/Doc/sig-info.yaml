@@ -13,6 +13,9 @@ maintainers:
 repositories:
   - repo:
       - boostkit/Doc
+      - boostkit/boost-x
+      - boostkit/.gitcode
+      - boostkit/boostkit-agreements
     committers:
       - gitcode_id: congzhaohw
         name: 赵聪

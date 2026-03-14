@@ -20,6 +20,11 @@ repositories:
       - boostkit/SegmentCache
       - boostkit/mooncake
       - boostkit/LMCache
+      - boostkit/boostsdb
+      - boostkit/ksal
+      - boostkit/ocf
+      - boostkit/hadoop
+      - boostkit/spdk
     committers:
       - gitcode_id: injy
         name: 沈晨阳

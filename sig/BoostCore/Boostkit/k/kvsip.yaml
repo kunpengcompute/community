@@ -1,6 +1,6 @@
-name: kqmalloc
+name: kvsip
 type: private
-description: "kqmalloc SIG信息"
+description: "kvsip SIG信息"
 branches:
   - name: master
     type: public

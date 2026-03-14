@@ -1,6 +1,6 @@
-name: kqmalloc
+name: kzstar
 type: private
-description: "kqmalloc SIG信息"
+description: "kzstar SIG信息"
 branches:
   - name: master
     type: public

@@ -34,3 +34,6 @@ repositories:
       - boostkit/vllm_router
       - boostkit/cmf
       - boostkit/flash-engram
+      - boostkit/pytorch
+      - boostkit/DNN
+      - boostkit/kdnn-pre
