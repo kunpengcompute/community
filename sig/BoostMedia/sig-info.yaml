@@ -20,6 +20,7 @@ repositories:
       - boostkit/x265
       - boostkit/kvcl
       - boostkit/hmpp
+      - boostkit/boostmedia
     committers:
       - gitcode_id: huang-wen-jie
         name: 黄文杰

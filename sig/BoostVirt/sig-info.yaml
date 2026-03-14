@@ -17,6 +17,7 @@ maintainers:
 repositories:
   - repo:
       - boostkit/cloud-virtual
+      - boostkit/boostvirt
     committers:
       - gitcode_id: xxd-xiaodong_sp
         name: 谢晓东

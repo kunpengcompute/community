@@ -1,0 +1,8 @@
+name: Brotli4j
+type: public
+description: "Brotli4j SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: dev_forKS_1.16.0
+    type: public

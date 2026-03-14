@@ -24,6 +24,11 @@ repositories:
       - boostkit/mysql
       - boostkit/mysql-gbp
       - boostkit/mysql-server
+      - boostkit/postgres
+      - boostkit/kovae
+      - boostkit/milvus
+      - boostkit/boostdb
+      - boostkit/boostkit-database
     committers:
       - gitcode_id: zhengyuanyue
         name: 郑渊悦
