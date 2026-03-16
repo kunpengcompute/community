@@ -15,6 +15,7 @@ repositories:
       - boostkit/OmniStream
       - boostkit/Gluten
       - boostkit/OmniStateStore
+      - boostkit/boostkit-bigdata
     committers:
       - gitcode_id: hyy_cyan
         name: 黄宇扬

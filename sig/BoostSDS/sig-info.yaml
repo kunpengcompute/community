@@ -25,6 +25,7 @@ repositories:
       - boostkit/ocf
       - boostkit/hadoop
       - boostkit/spdk
+      - boostkit/boostsds
     committers:
       - gitcode_id: injy
         name: 沈晨阳
