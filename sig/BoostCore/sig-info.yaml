@@ -59,6 +59,9 @@ repositories:
       - boostkit/boostcore
       - boostkit/goserviceopt
       - boostkit/json-iterator
+      - boostkit/fwd
+      - boostkit/kitex
+      - boostkit/msgp
     committers:
       - gitcode_id: gong-xiaoting
         name: 龚晓婷
