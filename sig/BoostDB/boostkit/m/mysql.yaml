@@ -6,17 +6,22 @@ branches:
     type: public
   - name: MySQL-5.7.27
     type: public
+    create_from: MySQL-8.0.32
   - name: MySQL-8.0.20
     type: public
+    create_from: MySQL-8.0.32
   - name: MySQL-8.0.25
     type: public
+    create_from: MySQL-8.0.32
   - name: MySQL-8.0.30
     type: public
+    create_from: MySQL-8.0.32
   - name: MySQL-Percona-Server-5.7.44-53
     type: public
   - name: MySQL-8.0.32
     type: public
   - name: MySQL-8.0.35
     type: public
+    create_from: MySQL-8.0.32
   - name: MySQL-8.0.36
     type: public
