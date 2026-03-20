@@ -12,7 +12,6 @@ maintainers:
     email: wuwn1206@126.com
 repositories:
   - repo:
-      - boostkit/rocksdb
       - boostkit/3FS
       - boostkit/ceph
       - boostkit/isa-l
