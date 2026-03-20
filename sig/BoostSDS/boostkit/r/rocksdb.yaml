@@ -1,7 +1,0 @@
-name: rocksdb
-type: public
-description: "rocksdb SIG信息"
-branches:
-  - name: master
-    type: protected
-
