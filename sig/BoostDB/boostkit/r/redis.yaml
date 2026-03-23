@@ -8,3 +8,4 @@ branches:
     type: public
   - name: redis-kbaio-bak
     type: public
+    create_from: master
