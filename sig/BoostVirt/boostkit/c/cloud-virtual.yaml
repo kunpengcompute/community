@@ -1,6 +1,6 @@
 name: cloud-virtual
 type: public
-description: "cloud-virtual SIG信息"
+description: "cloud-virtual: 鲲鹏BoostKit虚拟化加速特性"
 branches:
   - name: master
     type: protected

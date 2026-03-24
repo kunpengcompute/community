@@ -1,0 +1,6 @@
+name: pvm
+type: public
+description: "pvm: 鲲鹏轻量虚拟化pvm方案"
+branches:
+  - name: master
+    type: protected
