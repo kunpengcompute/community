@@ -18,6 +18,8 @@ repositories:
   - repo:
       - boostkit/cloud-virtual
       - boostkit/boostvirt
+      - boostkit/pvm
+      - boostkit/cloud-skills
     committers:
       - gitcode_id: xxd-xiaodong_sp
         name: 谢晓东
@@ -25,12 +27,6 @@ repositories:
         email: 624338359@qq.com
   - repo:
       - boostkit/cloud-native
-    committers:
-      - gitcode_id: yuncongyue
-        name: 刘雨晴
-        organization: huawei
-        email: liuyuqing39@huawei.com
-  - repo:
       - boostkit/MicroservicesBench
     committers:
       - gitcode_id: yuncongyue

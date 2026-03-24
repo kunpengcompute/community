@@ -1,0 +1,6 @@
+name: cloud-skills
+type: public
+description: "cloud-skills: 云计算领域AI辅助开发的通用skill代码"
+branches:
+  - name: master
+    type: protected

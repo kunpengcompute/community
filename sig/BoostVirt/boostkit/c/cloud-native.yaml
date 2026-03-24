@@ -1,6 +1,6 @@
 name: cloud-native
 type: public
-description: "cloud-native SIG信息"
+description: "cloud-native: 鲲鹏BoostKit云原生加速特性"
 branches:
   - name: master
     type: protected
