@@ -15,7 +15,7 @@ repositories:
       - boostkit/Kbox
       - boostkit/vmi
       - boostkit/mesa
-      - boostkit/boostbox
+      - boostkit/boostcph
     committers:
       - gitcode_id: maoyue0730
         name: 毛越
