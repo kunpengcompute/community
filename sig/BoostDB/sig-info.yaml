@@ -6,7 +6,7 @@ maintainers:
     name: 王晨光
     organization: huawei
     email: wangdaminger@qq.com
-  - gitcode_id: hazdzy
+  - gitcode_id: huyizhen
     name: 胡义臻
     organization: huawei
     email: huyizhen2024@163.com
@@ -42,3 +42,11 @@ repositories:
         name: 吴沛
         organization: huawei
         email: 644210294@qq.com
+      - gitcode_id: guoshaohong1
+        name: 郭少烘
+        organization: huawei
+        email: xxx@xx.com
+      - gitcode_id: mutouyuguo
+        name: 俞安琪
+        organization: huawei
+        email: yaq-1944@hotmail.com
