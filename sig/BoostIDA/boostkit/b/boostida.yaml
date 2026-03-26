@@ -1,0 +1,6 @@
+name: boostida
+type: public
+description: "boostida SIG信息"
+branches:
+  - name: master
+    type: public
