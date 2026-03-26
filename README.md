@@ -19,6 +19,7 @@ BoostKit社区包含多个项目，您可以根据实际场景，在对应的项
 |  [BoostMedia](https://gitcode.com/boostkit/boostmedia)| 媒体极致吞吐: BoostMedia主页 |  
 |  [BoostBox](https://gitcode.com/boostkit/boostbox)| 云手机极致密度: BoostBox主页 |  
 |  [WAAS](https://gitcode.com/boostkit/waas)| WAAS在离线调优系统 |  
+|  [BoostIDA](https://gitcode.com/boostkit/boostida)| 智能数据分析: BoostIDA主页 | 
 
 
 

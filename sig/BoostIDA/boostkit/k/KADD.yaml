@@ -1,0 +1,6 @@
+name: KADD
+type: private
+description: "KADD SIG信息"
+branches:
+  - name: master
+    type: public
