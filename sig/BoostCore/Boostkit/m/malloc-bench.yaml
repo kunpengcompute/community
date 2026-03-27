@@ -1,0 +1,6 @@
+name: malloc-bench
+type: public
+description: "malloc-bench SIG信息"
+branches:
+  - name: master
+    type: public
