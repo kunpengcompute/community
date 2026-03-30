@@ -13,3 +13,6 @@ branches:
   - name: kvrocks-2.2
     type: public
     create_from: master
+  - name: develop
+    type: public
+    create_from: kvrocks-datanode
