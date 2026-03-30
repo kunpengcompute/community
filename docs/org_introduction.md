@@ -23,10 +23,10 @@
 | [OmniRuntime大数据套件](https://gitcode.com/boostkit/omniruntime/blob/master/README.md) | 鲲鹏BoostKit大数据套件OmniRuntime特性包含OmniOperator算子加速、OmniShuffle Shuffle加速、OmniAdvisor参数调优、OmniMV物化视图、OmniScheduler Yarn负载调度算法、OmniShield机密大数据、OmniHBaseGSI全局二级索引、OmniData算子下推、OmniStream Flink Native化以及OmniStateStore状态优化十大子特性，对数据获取、计算、交换、处理、缓存等阶段多维度优化，插件化解耦交付，提升不同场景大数据引擎性能。 |
 | [BoostDB数据库套件](https://gitcode.com/boostkit/boostdb) | 鲲鹏BoostKit数据库套件BoostDB旨在基于鲲鹏提供数据库加速能力，聚焦应用加速、基础加速、系统加速全栈优化提升鲲鹏数据库性能，提供极致的数据库解决方案。 |
 | [BoostSDS分布式存储套件](https://gitcode.com/boostkit/boostsds) | 鲲鹏BoostKit分布式存储套件BoostSDS旨在基于鲲鹏提供存储引擎的基础加速特性和应用加速特性，聚焦降低存储业务端到端时延，提升系统整体IOPS，打造业界高性价比的分布式存储底座，成为数据中心海量数据的基石。 |
-| [BoostVirt虚拟化套件](https://wiki.huawei.com/domains/94363/wiki/354268/WIKI2026032310514730?title=快速体验) | 鲲鹏BoostKit虚拟化套件BoostVirt旨在基于鲲鹏提供虚拟化和云原生的应用加速能力，聚焦提升鲲鹏虚拟化计算性能、降低网络存储的IO损耗、提升业务在虚拟机和容器中的性能，提供虚拟化开源使能优化。 |
+| [BoostVirt虚拟化套件](https://gitcode.com/boostkit/boostvirt) | 鲲鹏BoostKit虚拟化套件BoostVirt旨在基于鲲鹏提供虚拟化和云原生的应用加速能力，聚焦提升鲲鹏虚拟化计算性能、降低网络存储的IO损耗、提升业务在虚拟机和容器中的性能，提供虚拟化开源使能优化。 |
 | [BoostSRA搜推广套件](https://gitcode.com/boostkit/boostsra) | 鲲鹏BoostKit搜推广使能套件旨在为互联网搜索、推荐、广告业务场景提供基于鲲鹏平台的应用层加速能力，组件涵盖召回场景核心检索算法、排序场景模型推理软件框架优化。 |
 | [BoostCPH云手机套件](https://gitcode.com/boostkit/boostbox) | 鲲鹏BoostKit云手机场景利用ARM指令集同构优势，支持移动应用无损上云，同时将多年技术积累浓缩到Kbox云手机容器、指令流引擎、视频流引擎核心能力等组件，形成了云手机Turbo套件，帮助客户和伙伴实现云手机极致的性能和业务体验。 |
-| [WAAS负载感知加速系统](https://wiki.huawei.com/domains/94363/wiki/354268/WIKI2026032310514730?title=快速体验) | 负载感知加速系统，通过负载识别和性能建模，基于每个计算任务深度调优，自动配置全栈最佳参数，完成量体裁衣似的动态资源分配，做到资源配给与资源需求实时最佳。 |
+| WAAS负载感知加速系统 | 负载感知加速系统，通过负载识别和性能建模，基于每个计算任务深度调优，自动配置全栈最佳参数，完成量体裁衣似的动态资源分配，做到资源配给与资源需求实时最佳。 |
 | [BoostMedia媒体套件](https://gitcode.com/boostkit/boostmedia) | 鲲鹏BoostKit媒体套件旨在为视频编解码、图像处理场景提供基于鲲鹏平台的应用层加速能力。 |
 | [BoostIDA智能数据分析套件](https://gitcode.com/boostkit/boostida) | 鲲鹏智能数据分析套件BoostIDA提供鲲鹏亲和的高性能数据分析能力，具体应用包括加密流量监测，正则表达式高性能匹配等。 |
 | BoostCC机密计算套件 | 鲲鹏BoostKit机密计算套件BoostCC基于内生国密、机密计算等自主可控根技术，面向互联网、金融、运营商、安平等业务场景，提供端到端安全解决方案及行业最佳实践。 |
