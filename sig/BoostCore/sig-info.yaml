@@ -26,6 +26,14 @@ maintainers:
     name: 黄晓权
     organization: huawei
     email: huangxiaoquan1@huawei.com
+  - gitcode_id: xiaoji113
+    name: 周永哲
+    organization: huawei
+    email: zhouyongzhe@huawei.com
+  - gitcode_id: llinjiyuan
+    name: 林纪元
+    organization: huawei
+    email: linjiyuan1@huawei.com
 repositories:
   - repo:
       - boostkit/KAE
@@ -63,6 +71,8 @@ repositories:
       - boostkit/fwd
       - boostkit/kitex
       - boostkit/msgp
+      - boostkit/numpy
+      - boostkit/pandas
     committers:
       - gitcode_id: gong-xiaoting
         name: 龚晓婷
@@ -76,3 +86,11 @@ repositories:
         name: 张学磊
         organization: huawei
         email: zhangxuelei4@huawei.com
+      - gitcode_id: xiaoji113
+        name: 周永哲
+        organization: huawei
+        email: zhouyongzhe@huawei.com
+      - gitcode_id: llinjiyuan
+        name: 林纪元
+        organization: huawei
+        email: linjiyuan1@huawei.com
