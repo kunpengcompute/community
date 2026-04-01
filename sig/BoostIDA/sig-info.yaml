@@ -9,8 +9,18 @@ maintainers:
 repositories:
   - repo:
       - boostkit/boostida
+      - boostkit/KADD
     committers:
       - gitcode_id: guangsen
         name: 姬广森
         organization: huawei
         email: jiguangsen1998@126.com
+      - gitcode_id: Rnanprince
+        name: 王楠
+        organization: huawei
+        email: rangnan54@huawei.com
+      - gitcode_id: jcui_2026
+        name: 崔婧
+        organization: huawei
+        email: cuijing9@huawei.com
+ 
