@@ -28,3 +28,6 @@ branches:
   - name: MySQL-5.7.26
     type: public
     create_from: MySQL-8.0.32
+  - name: MySQL-8.0.30-gbp
+    type: public
+    create_from: MySQL-8.0.32
