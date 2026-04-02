@@ -43,6 +43,7 @@ repositories:
       - boostkit/zlib
       - boostkit/ksonic-cpp
       - boostkit/kqmalloc
+      - boostkit/jemalloc
       - boostkit/malloc-bench
       - boostkit/avx2ki
       - boostkit/kpglibc

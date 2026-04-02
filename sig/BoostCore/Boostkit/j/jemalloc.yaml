@@ -1,0 +1,8 @@
+name: jemalloc
+type: private
+description: "jemalloc SIG信息"
+branches:
+  - name: dev
+    type: public
+  - name: upstream
+    type: public
