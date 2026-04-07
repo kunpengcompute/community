@@ -1,0 +1,6 @@
+name: numpy
+type: public
+description: "numpy SIG信息"
+branches:
+  - name: master
+    type: public
