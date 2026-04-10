@@ -10,6 +10,10 @@ maintainers:
     name: 郭焕亮
     organization: huawei
     email: guohuanliang@huawei.com
+  - gitcode_id: jianyang_chen
+    name: 陈键杨
+    organization: huawei
+    email: chenjianyang1@huawei.com
 repositories:
   - repo:
       - boostkit/kaot
@@ -22,3 +26,7 @@ repositories:
         name: 陈键杨
         organization: huawei
         email: chenjianyang1@huawei.com
+      - gitcode_id: stitch27
+        name: 杨智博
+        organization: huawei
+        email: yangzhibo6@huawei.com
