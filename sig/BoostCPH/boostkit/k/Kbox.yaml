@@ -4,3 +4,6 @@ description: "Kbox SIG信息"
 branches:
   - name: master
     type: protected
+  - name: dev_aosp15
+    type: public
+    create_from: master
