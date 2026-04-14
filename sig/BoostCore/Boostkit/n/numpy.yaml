@@ -6,3 +6,4 @@ branches:
     type: public
   - name: dev
     type: public
+    create_from: master
