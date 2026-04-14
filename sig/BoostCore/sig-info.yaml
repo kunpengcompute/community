@@ -30,10 +30,18 @@ maintainers:
     name: 周永哲
     organization: huawei
     email: zhouyongzhe@huawei.com
-  - gitcode_id: llinjiyuan
+  - gitcode_id: linjiyuan
     name: 林纪元
     organization: huawei
     email: linjiyuan1@huawei.com
+  - gitcode_id: junlai-coder
+    name: 卢俊来
+    organization: huawei
+    email: lujunlai@huawei.com
+  - gitcode_id: suxianqun
+    name: 苏现群
+    organization: huawei
+    email: suxianqun@huawei.com
 repositories:
   - repo:
       - boostkit/KAE
@@ -91,7 +99,15 @@ repositories:
         name: 周永哲
         organization: huawei
         email: zhouyongzhe@huawei.com
-      - gitcode_id: llinjiyuan
+      - gitcode_id: linjiyuan
         name: 林纪元
         organization: huawei
         email: linjiyuan1@huawei.com
+      - gitcode_id: junlai-coder
+        name: 卢俊来
+        organization: huawei
+        email: lujunlai@huawei.com
+      - gitcode_id: suxianqun
+        name: 苏现群
+        organization: huawei
+        email: suxianqun@huawei.com
