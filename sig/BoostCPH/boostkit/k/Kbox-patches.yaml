@@ -1,6 +1,6 @@
-name: Kbox
+name: Kbox-patches
 type: public
-description: "Kbox SIG信息"
+description: "Kbox-patches SIG信息"
 branches:
   - name: AOSP11
     type: protected

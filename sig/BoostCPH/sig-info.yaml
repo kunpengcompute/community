@@ -12,7 +12,7 @@ maintainers:
     email: liuyu3@huawei.com
 repositories:
   - repo:
-      - boostkit/Kbox
+      - boostkit/Kbox-patches
       - boostkit/vmi
       - boostkit/mesa
       - boostkit/boostcph
