@@ -1,0 +1,6 @@
+name: kadd-open
+type: public
+description: "kadd-open信息"
+branches:
+  - name: master
+    type: public
