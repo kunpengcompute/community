@@ -1,0 +1,8 @@
+name: brpc
+type: public
+description: "brpc SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: dev_26.1.RC1
+    type: public
