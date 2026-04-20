@@ -83,6 +83,9 @@ repositories:
       - boostkit/numpy
       - boostkit/pandas
       - boostkit/brpc
+      - boostkit/fbthrift
+      - boostkit/rapidjson
+      - boostkit/simdjson
     committers:
       - gitcode_id: gong-xiaoting
         name: 龚晓婷

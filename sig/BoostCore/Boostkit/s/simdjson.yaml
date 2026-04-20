@@ -1,0 +1,8 @@
+name: simdjson
+type: public
+description: "simdjson SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: dev
+    type: public
