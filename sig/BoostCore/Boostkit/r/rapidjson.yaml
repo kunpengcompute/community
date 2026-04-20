@@ -1,0 +1,8 @@
+name: rapidjson
+type: public
+description: "rapidjson SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: dev
+    type: public
