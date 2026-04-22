@@ -4,3 +4,6 @@ description: "ffmpeg SIG信息"
 branches:
   - name: master
     type: protected
+  - name: hw265-dev
+    type: protected
+    create_from: master
