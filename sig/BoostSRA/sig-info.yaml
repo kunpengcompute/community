@@ -30,6 +30,7 @@ repositories:
       - boostkit/faiss
       - boostkit/hnswlib
       - boostkit/rabitq
+      - boostkit/diskann
       - boostkit/vllm-ops
       - boostkit/vllm_router
       - boostkit/cmf

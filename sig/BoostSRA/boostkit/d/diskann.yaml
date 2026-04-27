@@ -1,0 +1,6 @@
+name: diskann
+type: public
+description: "diskann优化"
+branches:
+  - name: master
+    type: protected
