@@ -1,0 +1,6 @@
+name: OmniSkill
+type: public
+description: "OmniSkill SIG信息"
+branches:
+  - name: master
+    type: protected
