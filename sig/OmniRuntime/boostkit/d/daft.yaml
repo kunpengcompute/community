@@ -1,0 +1,6 @@
+name: daft
+type: private
+description: "daft代码仓信息"
+branches:
+  - name: master
+    type: protected
