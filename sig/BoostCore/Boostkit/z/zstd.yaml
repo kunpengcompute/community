@@ -2,7 +2,9 @@ name: zstd
 type: public
 description: "zstd SIG信息"
 branches:
-  - name: master
+  - name: dev
     type: public
   - name: aarch64-1.5.4
+    type: public
+  - name: master
     type: public
