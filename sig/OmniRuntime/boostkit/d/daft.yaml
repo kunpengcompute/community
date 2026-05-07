@@ -1,5 +1,5 @@
 name: daft
-type: private
+type: public
 description: "daft代码仓信息"
 branches:
   - name: master
