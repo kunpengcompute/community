@@ -42,6 +42,14 @@ maintainers:
     name: 苏现群
     organization: huawei
     email: suxianqun@huawei.com
+  - gitcode_id: uEchoZ
+    name: 曾健源
+    organization: huawei
+    email: zengjianyuan2@huawei.com
+  - gitcode_id: luozisheng_
+    name: 骆子胜
+    organization: huawei
+    email: luozisheng1@huawei.com
 repositories:
   - repo:
       - boostkit/KAE
@@ -115,3 +123,11 @@ repositories:
         name: 苏现群
         organization: huawei
         email: suxianqun@huawei.com
+      - gitcode_id: uEchoZ
+        name: 曾健源
+        organization: huawei
+        email: zengjianyuan2@huawei.com
+      - gitcode_id: luozisheng_
+        name: 骆子胜
+        organization: huawei
+        email: luozisheng1@huawei.com
