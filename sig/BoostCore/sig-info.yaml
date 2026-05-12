@@ -94,6 +94,7 @@ repositories:
       - boostkit/fbthrift
       - boostkit/rapidjson
       - boostkit/simdjson
+      - boostkit/LowLatencyLib
     committers:
       - gitcode_id: gong-xiaoting
         name: 龚晓婷
@@ -131,3 +132,15 @@ repositories:
         name: 骆子胜
         organization: huawei
         email: luozisheng1@huawei.com
+      - gitcode_id: cloudyyy1234
+        name: 杨云易
+        organization: huawei
+        email: yangyunyi2@huawei.com
+      - gitcode_id: lostway1
+        name: 罗盛炜
+        organization: huawei
+        email: luoshengwei@huawei.com
+      - gitcode_id: Clarence-glx
+        name: 龚良旭
+        organization: huawei
+        email: gongliangxu@huawei.com
