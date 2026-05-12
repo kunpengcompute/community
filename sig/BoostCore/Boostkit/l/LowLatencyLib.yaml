@@ -1,0 +1,8 @@
+name: LowLatencyLib
+type: public
+description: "LowLatencyLib SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: dev
+    type: public
