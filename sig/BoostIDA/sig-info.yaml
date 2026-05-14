@@ -10,6 +10,7 @@ repositories:
   - repo:
       - boostkit/boostida
       - boostkit/KADD
+      - boostkit/KDADK-MMPM
     committers:
       - gitcode_id: guangsen
         name: 姬广森
