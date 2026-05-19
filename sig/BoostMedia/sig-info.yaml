@@ -10,6 +10,10 @@ maintainers:
     name: 刘玉
     organization: huawei
     email: liuyu3@huawei.com
+  - gitcode_id: huang-wen-jie
+    name: 黄文杰
+    organization: huawei
+    email: huangwenjie16@huawei.com
 repositories:
   - repo:
       - boostkit/libavif

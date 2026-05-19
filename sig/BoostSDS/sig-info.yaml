@@ -10,6 +10,10 @@ maintainers:
     name: 吴伟男
     organization: huawei
     email: wuwn1206@126.com
+  - gitcode_id: autumn_94
+    name: 包旻晨
+    organization: huawei
+    email: minchen_bao@foxmail.com
 repositories:
   - repo:
       - boostkit/3FS
