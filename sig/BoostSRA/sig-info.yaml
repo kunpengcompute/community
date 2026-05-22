@@ -14,6 +14,10 @@ maintainers:
     name: 阮定
     organization: huawei
     email: ruanding@huawei.com
+  - gitcode_id: lloraine_Liu
+    name: 刘琳
+    organization: huawei
+    email: liulin162@huawei.com
 repositories:
   - repo:
       - boostkit/boostsra

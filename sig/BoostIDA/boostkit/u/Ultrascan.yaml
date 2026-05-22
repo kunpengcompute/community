@@ -1,0 +1,12 @@
+name: Ultrascan
+type: public
+description: "Ultrascan SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: dev_26.1.RC1
+    type: public
+  - name: dev
+    type: public
+  - name: replaceAll
+    type: public

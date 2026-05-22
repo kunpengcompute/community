@@ -6,6 +6,18 @@ maintainers:
     name: 尹伟杰
     organization: huawei
     email: yinweijie2@huawei.com
+  - gitcode_id: hyy_cyan
+    name: 黄宇扬
+    organization: huawei
+    email: huangyuyang1@huawei.com
+  - gitcode_id: Ray0915
+    name: 芮蕾
+    organization: huawei
+    email: ruilei1@huawei.com
+  - gitcode_id: yiding-wu
+    name: 吴一丁
+    organization: huawei
+    email: 707999813@qq.com
 repositories:
   - repo:
       - boostkit/omniruntime

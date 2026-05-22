@@ -10,6 +10,10 @@ maintainers:
     name: 刘玉
     organization: huawei
     email: liuyu3@huawei.com
+  - gitcode_id: maoyue0730
+    name: 毛越
+    organization: huawei
+    email: maoyue5@huawei.com
 repositories:
   - repo:
       - boostkit/Kbox-patches
