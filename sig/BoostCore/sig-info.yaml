@@ -50,6 +50,10 @@ maintainers:
     name: 骆子胜
     organization: huawei
     email: luozisheng1@huawei.com
+  - gitcode_id: wenmingyang
+    name: 温名阳
+    organization: huawei
+    email: wenmingyang@huawei.com  
 repositories:
   - repo:
       - boostkit/KAE
@@ -132,6 +136,10 @@ repositories:
         name: 骆子胜
         organization: huawei
         email: luozisheng1@huawei.com
+      - gitcode_id: wenmingyang
+        name: 温名阳
+        organization: huawei
+        email: wenmingyang@huawei.com 
       - gitcode_id: cloudyyy1234
         name: 杨云易
         organization: huawei
