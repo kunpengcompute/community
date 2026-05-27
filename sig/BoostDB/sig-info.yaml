@@ -29,6 +29,7 @@ repositories:
       - boostkit/milvus
       - boostkit/boostdb
       - boostkit/boostkit-database
+      - boostkit/OpenViking
     committers:
       - gitcode_id: zhengyuanyue
         name: 郑渊悦
