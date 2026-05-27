@@ -4,3 +4,6 @@ description: "Release Managment SIG信息"
 branches:
   - name: master
     type: public
+  - name: br_bk26_Q2
+    type: public
+    create_from: dev_RC1
