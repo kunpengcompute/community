@@ -1,0 +1,6 @@
+name: OpenViking
+type: public
+description: "Context Database For AI Agents"
+branches:
+  - name: master
+    type: protected
