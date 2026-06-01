@@ -1,0 +1,9 @@
+name: kacc_crypto
+type: public
+description: "Crypto acceleration patches and optimized implementations for BoostKit"
+branches:
+  - name: master
+    type: public
+  - name: dev
+    type: public
+    create_from: master
