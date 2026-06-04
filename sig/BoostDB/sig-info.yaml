@@ -14,6 +14,10 @@ maintainers:
     name: 许荣荣
     organization: huawei
     email: nbuxrr@139.com
+  - gitcode_id: ljw_kent
+    name: 李锦威
+    organization: huawei
+    email: 470921944@qq.com
 repositories:
   - repo:
       - boostkit/kraio
