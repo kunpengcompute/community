@@ -18,6 +18,10 @@ maintainers:
     name: 吴一丁
     organization: huawei
     email: 707999813@qq.com
+  - gitcode_id: Oldli883
+    name: 李晨昊
+    organization: huawei
+    email: 872049064@qq.com
 repositories:
   - repo:
       - boostkit/omniruntime
