@@ -99,7 +99,6 @@ repositories:
       - boostkit/rapidjson
       - boostkit/simdjson
       - boostkit/LowLatencyLib
-      - boostkit/skills
       - boostkit/kacc_crypto
     committers:
       - gitcode_id: gong-xiaoting

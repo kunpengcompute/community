@@ -17,6 +17,7 @@ maintainers:
 repositories:
   - repo:
       - boostkit/release-management
+      - boostkit/skills
     committers:
       - gitcode_id: lishutian
         name: 李述田
@@ -34,3 +35,40 @@ repositories:
         name: 孟杰
         organization: huawei
         email: mengjiefamily@163.com
+       - gitcode_id: gong-xiaoting
+        name: 龚晓婷
+        organization: huawei
+        email: gongxiaoting@huawei.com
+      - gitcode_id: guangsen
+        name: 姬广森
+        organization: huawei
+        email: jiguangsen1998@126.com
+      - gitcode_id: gcw_NiLAcrhi
+        name: 张学磊
+        organization: huawei
+        email: zhangxuelei4@huawei.com
+      - gitcode_id: hyy_cyan
+        name: 黄宇扬
+        organization: huawei
+        email: huangyuyang1@huawei.com
+      - gitcode_id: firewalls
+        name: 关文选
+        organization: huawei
+        email: guanwenxuan@huawei.com
+      - gitcode_id: fengxiao21
+        name: 冯骁
+        organization: huawei
+        email: fengxiao21@huawei.com
+      - gitcode_id: ZhangweiTiger
+        name: 张巍
+        organization: huawei
+        email: 2319515477@qq.com
+      - gitcode_id: luodan_000
+        name: 罗旦
+        organization: huawei
+        email: luodan2@huawei.com           
+      - gitcode_id: copperybean
+        name: 张志宏
+        organization: huawei
+        email: 122244799@qq.com
+      
