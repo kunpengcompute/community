@@ -32,6 +32,7 @@ repositories:
       - boostkit/kovae
       - boostkit/milvus
       - boostkit/boostdb
+      - boostkit/boostdb-ci
       - boostkit/boostkit-database
       - boostkit/OpenViking
     committers:
