@@ -2,7 +2,7 @@
   "name": "boostkit文档检查配置",
   "config": {
     "base": {
-      "docPath": "docs",
+      "docPath": "docs|README(.*)?\\.md",
       "markdownlintRemoteConfigUrl": "https://raw.gitcode.com/boostkit/community/raw/master/.doctools/markdownlint.config.json",
       "linkValidityCheckRemoteWhitelistUrl": "https://raw.gitcode.com/boostkit/community/raw/master/.doctools/url.whitelist.json",
       "resourceExistenceCheckRemoteWhitelistUrl": "https://raw.gitcode.com/boostkit/community/raw/master/.doctools/url.whitelist.json",
@@ -15,7 +15,199 @@
     }
   },
   "repo": {
-    "boostkit/opencv": {
+    "Boostkit/avx2ki": {
+      "extendConfig": "base"
+    },
+    "Boostkit/boostcore": {
+      "extendConfig": "base"
+    },
+    "Boostkit/KAE": {
+      "extendConfig": "base"
+    },
+    "Boostkit/kpglibc": {
+      "extendConfig": "base"
+    },
+    "Boostkit/sonic-cpp": {
+      "extendConfig": "base"
+    },
+    "Boostkit/simdjson": {
+      "extendConfig": "base"
+    },
+
+    "Boostkit/rapidjson": {
+      "extendConfig": "base"
+    },
+    "Boostkit/fbthrift": {
+      "extendConfig": "base"
+    },
+    "Boostkit/KUAF": {
+      "extendConfig": "base"
+    },
+    "Boostkit/lz4": {
+      "extendConfig": "base"
+    },
+    "Boostkit/snappy": {
+      "extendConfig": "base"
+    },
+    "Boostkit/zstd": {
+      "extendConfig": "base"
+    },
+    "Boostkit/zlib": {
+      "extendConfig": "base"
+    },
+    "Boostkit/protobuf": {
+      "extendConfig": "base"
+    },
+    "Boostkit/boostida": {
+      "extendConfig": "base"
+    },
+    "Boostkit/hyperscan": {
+      "extendConfig": "base"
+    },
+    "Boostkit/Ultrascan": {
+      "extendConfig": "base"
+    },
+    "Boostkit/kadd-open": {
+      "extendConfig": "base"
+    },
+    "Boostkit/boostcph": {
+      "extendConfig": "base"
+    },
+    "Boostkit/Kbox-patches": {
+      "extendConfig": "base"
+    },
+    "Boostkit/mesa": {
+      "extendConfig": "base",
+      "docPath": "README.md"
+    },
+    "Boostkit/vmi": {
+      "extendConfig": "base"
+    },
+    "Boostkit/boostdb": {
+      "extendConfig": "base"
+    },
+    "Boostkit/rocksdb": {
+      "extendConfig": "base"
+    },
+    "Boostkit/milvus": {
+      "extendConfig": "base"
+    },
+    "Boostkit/mysql": {
+      "extendConfig": "base"
+    },
+    "Boostkit/Redis": {
+      "extendConfig": "base"
+    },
+    "Boostkit/redis-dtoe": {
+      "extendConfig": "base"
+    },
+    "Boostkit/boostmedia": {
+      "extendConfig": "base"
+    },
+    "Boostkit/ffmpeg": {
+      "extendConfig": "base"
+    },
+    "Boostkit/libavif": {
+      "extendConfig": "base"
+    },
+    "Boostkit/libwebp": {
+      "extendConfig": "base"
+    },
+    "Boostkit/opencv": {
+      "extendConfig": "base"
+    },
+    "Boostkit/3FS": {
+      "extendConfig": "base"
+    },
+    "Boostkit/boostsds": {
+      "extendConfig": "base"
+    },
+    "Boostkit/ceph_BK": {
+      "extendConfig": "base"
+    },
+    "Boostkit/hadoop": {
+      "extendConfig": "base"
+    },
+    "Boostkit/isa-l": {
+      "extendConfig": "base"
+    },
+    "Boostkit/ocf": {
+      "extendConfig": "base"
+    },
+    "Boostkit/reedsolomon": {
+      "extendConfig": "base"
+    },
+    "Boostkit/spdk": {
+      "extendConfig": "base"
+    },
+    "Boostkit/boostsra": {
+      "extendConfig": "base"
+    },
+    "Boostkit/cmf": {
+      "extendConfig": "base"
+    },
+    "Boostkit/faiss": {
+      "extendConfig": "base"
+    },
+    "Boostkit/hnswlib": {
+      "extendConfig": "base"
+    },
+    "Boostkit/knewpfordelta": {
+      "extendConfig": "base"
+    },
+    "Boostkit/krl": {
+      "extendConfig": "base"
+    },
+    "Boostkit/kvecturbo": {
+      "extendConfig": "base"
+    },
+    "Boostkit/monolith": {
+      "extendConfig": "base"
+    },
+    "Boostkit/rabitq": {
+      "extendConfig": "base"
+    },
+    "Boostkit/tensorflow": {
+      "extendConfig": "base"
+    },
+    "Boostkit/tensorflow-serving": {
+      "extendConfig": "base"
+    },
+    "Boostkit/tensorrt-llm": {
+      "extendConfig": "base"
+    },
+    "Boostkit/vllm_router": {
+      "extendConfig": "base"
+    },
+    "Boostkit/boostvirt": {
+      "extendConfig": "base"
+    },
+    "Boostkit/cloud-native": {
+      "extendConfig": "base"
+    },
+    "Boostkit/cloud-virtual": {
+      "extendConfig": "base"
+    },
+    "Boostkit/boostkit-bigdata": {
+      "extendConfig": "base"
+    },
+    "Boostkit/OmniAdaptor": {
+      "extendConfig": "base",
+      "docPath": "README.md"
+    },
+    "Boostkit/omnioperator": {
+      "extendConfig": "base"
+    },
+    "Boostkit/omniruntime": {
+      "extendConfig": "base"
+    },
+    "Boostkit/omnistatestore": {
+      "extendConfig": "base"
+    },
+    "Boostkit/omnistream": {
+      "extendConfig": "base"
+    },
+    "Boostkit/waas": {
       "extendConfig": "base"
     }
   }
