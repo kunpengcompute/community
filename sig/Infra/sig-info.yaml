@@ -15,10 +15,6 @@ repositories:
         name: 姚孝添
         organization: huawei
         email: 176253319000@163.com
-      - gitcode_id: ibforu
-        name: 冯超
-        organization: huawei
-        email: fengchao73@h-partners.com
       - gitcode_id: juneuu
         name: 陈丽君
         organization: huawei
