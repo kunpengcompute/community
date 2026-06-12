@@ -35,7 +35,7 @@ repositories:
         name: 孟杰
         organization: huawei
         email: mengjiefamily@163.com
-       - gitcode_id: gong-xiaoting
+      - gitcode_id: gong-xiaoting
         name: 龚晓婷
         organization: huawei
         email: gongxiaoting@huawei.com
@@ -66,9 +66,172 @@ repositories:
       - gitcode_id: luodan_000
         name: 罗旦
         organization: huawei
-        email: luodan2@huawei.com           
+        email: luodan2@huawei.com
       - gitcode_id: copperybean
         name: 张志宏
         organization: huawei
         email: 122244799@qq.com
-      
+      - gitcode_id: lianqiye
+        name: 练启业
+        organization: huawei
+        email: lianqiye@huawei.com
+      - gitcode_id: rebecca-liu66
+        name: 刘玉
+        organization: huawei
+        email: liuyu3@huawei.com
+      - gitcode_id: maoyue0730
+        name: 毛越
+        organization: huawei
+        email: maoyue5@huawei.com
+      - gitcode_id: lauyarn
+        name: 刘阳
+        organization: huawei
+        email: liuyang645@huawei.com
+      - gitcode_id: fan-zhenhao
+        name: 樊振豪
+        organization: huawei
+        email: fanzhenhao@huawei.com
+      - gitcode_id: wujunhaoo
+        name: 吴俊豪
+        organization: huawei
+        email: wujunhao4@huawei.com
+      - gitcode_id: Sirus_L
+        name: 廖思睿
+        organization: huawei
+        email: liaosirui@outlook.com
+      - gitcode_id: huang-xiaoquan
+        name: 黄晓权
+        organization: huawei
+        email: huangxiaoquan1@huawei.com
+      - gitcode_id: xiaoji113
+        name: 周永哲
+        organization: huawei
+        email: zhouyongzhe@huawei.com
+      - gitcode_id: linjiyuan
+        name: 林纪元
+        organization: huawei
+        email: linjiyuan1@huawei.com
+      - gitcode_id: junlai-coder
+        name: 卢俊来
+        organization: huawei
+        email: lujunlai@huawei.com
+      - gitcode_id: suxianqun
+        name: 苏现群
+        organization: huawei
+        email: suxianqun@huawei.com
+      - gitcode_id: uEchoZ
+        name: 曾健源
+        organization: huawei
+        email: zengjianyuan2@huawei.com
+      - gitcode_id: luozisheng_
+        name: 骆子胜
+        organization: huawei
+        email: luozisheng1@huawei.com
+      - gitcode_id: wenmingyang
+        name: 温名阳
+        organization: huawei
+        email: wenmingyang@huawei.com
+      - gitcode_id: chen-guang-wang
+        name: 王晨光
+        organization: huawei
+        email: wangdaminger@qq.com
+      - gitcode_id: huyizhen
+        name: 胡义臻
+        organization: huawei
+        email: huyizhen2024@163.com
+      - gitcode_id: xurr2020
+        name: 许荣荣
+        organization: huawei
+        email: nbuxrr@139.com
+      - gitcode_id: ljw_kent
+        name: 李锦威
+        organization: huawei
+        email: 470921944@qq.com
+      - gitcode_id: huang-wen-jie
+        name: 黄文杰
+        organization: huawei
+        email: huangwenjie16@huawei.com
+      - gitcode_id: Enigmo-x
+        name: 郭涛玮
+        organization: huawei
+        email: guotaowei4@huawei.com
+      - gitcode_id: wuweinan
+        name: 吴伟男
+        organization: huawei
+        email: wuwn1206@126.com
+      - gitcode_id: autumn_94
+        name: 包旻晨
+        organization: huawei
+        email: minchen_bao@foxmail.com
+      - gitcode_id: RuanDing
+        name: 阮定
+        organization: huawei
+        email: ruanding@huawei.com
+      - gitcode_id: lloraine_Liu
+        name: 刘琳
+        organization: huawei
+        email: liulin162@huawei.com
+      - gitcode_id: youhwsh
+        name: 王有航
+        organization: huawei
+        email: youhangwang@foxmail.com
+      - gitcode_id: hotwell
+        name: 陈伟
+        organization: huawei
+        email: weichen618@sina.com
+      - gitcode_id: juneuu
+        name: 陈丽君
+        organization: huawei
+        email: chenlijun42@huawei.com
+      - gitcode_id: liangjc7
+        name: 梁杰超
+        organization: huawei
+        email: liangjiechao@huawei.com
+      - gitcode_id: gengxueping
+        name: 耿雪萍
+        organization: huawei
+        email: gengxueping@huawei.com
+      - gitcode_id: FlussGold
+        name: 魏圣凌
+        organization: huawei
+        email: weishengling@huawei.com
+      - gitcode_id: georgecao
+        name: 曹志
+        organization: huawei
+        email: george.cao@huawei.com
+      - gitcode_id: weijie-yin
+        name: 尹伟杰
+        organization: huawei
+        email: yinweijie2@huawei.com
+      - gitcode_id: Ray0915
+        name: 芮蕾
+        organization: huawei
+        email: ruilei1@huawei.com
+      - gitcode_id: yiding-wu
+        name: 吴一丁
+        organization: huawei
+        email: 707999813@qq.com
+      - gitcode_id: jianmin_gc
+        name: 黄剑敏
+        organization: huawei
+        email: huangjianmin@huawei.com
+      - gitcode_id: u013217006
+        name: 郭焕亮
+        organization: huawei
+        email: guohuanliang@huawei.com
+      - gitcode_id: jianyang_chen
+        name: 陈键杨
+        organization: huawei
+        email: chenjianyang1@huawei.com
+      - gitcode_id: Shunrei
+        name: 张春丽
+        organization: huawei
+        email: zhangchunli9@huawei.com
+      - gitcode_id: Endfromhere
+        name: 陈启军
+        organization: huawei
+        email: Endfromhere@noreply.gitcode.com
+      - gitcode_id: weiyun-11
+        name: 魏浩彬
+        organization: huawei
+        email: weihaobin1@h-partners.com
