@@ -1,5 +1,5 @@
 name: Security
-description: ""
+description: "致力于提升BoostKit开源社区的安全质量与竞争力，并持续做好安全应急响应"
 mailing_list: ""
 maintainers:
   - gitcode_id: Shunrei
@@ -46,10 +46,10 @@ repositories:
         name: 陈海涛
         organization: huawei
         email: 765917163@qq.com
-      - gitcode_id: jiazhongfeng1
-        name: 贾忠锋
+      - gitcode_id: Sirus_L
+        name: 廖思睿
         organization: huawei
-        email: jiazhongfeng1@huawei.com
+        email: liaosirui@outlook.com
       - gitcode_id: huang-wen-jie
         name: 黄文杰
         organization: huawei
