@@ -4,3 +4,9 @@ description: "vmi SIG信息"
 branches:
   - name: CloudPhone
     type: protected
+  - name: dev_xdgpu
+    type: public
+    create_from: CloudPhone
+  - name: dev_camera_passthrough
+    type: public
+    create_from: CloudPhone

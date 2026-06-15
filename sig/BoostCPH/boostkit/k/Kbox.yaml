@@ -7,3 +7,12 @@ branches:
   - name: dev_aosp15
     type: public
     create_from: master
+  - name: dev_xdgpu
+    type: public
+    create_from: master
+  - name: dev_camera_passthrough
+    type: public
+    create_from: master
+  - name: dev_aosp_merge
+    type: public
+    create_from: master
