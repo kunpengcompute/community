@@ -1,0 +1,14 @@
+name: cloud-virtual
+type: public
+description: "cloud-virtual: 鲲鹏BoostKit虚拟化加速特性"
+branches:
+  - name: master
+    type: protected
+  - name: add-wf-for-cube-egress
+    type: protected
+  - name: fix-net
+    type: protected
+  - name: docs/add-contributing-zh
+    type: protected
+  - name: kunpeng-dev
+    type: public

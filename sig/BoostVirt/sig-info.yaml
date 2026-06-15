@@ -23,7 +23,8 @@ repositories:
       - boostkit/cloud-virtual
       - boostkit/boostvirt
       - boostkit/pvm
-      - boostkit/cloud-skills
+      - boostkit/CubeSandbox
+      - boostkit/VirtEfficiency
     committers:
       - gitcode_id: xxd-xiaodong_sp
         name: 谢晓东

@@ -1,0 +1,6 @@
+name: pvm
+type: public
+description: "虚拟化领域效率提升，包括但不限于一些效率提升脚本、skills等"
+branches:
+  - name: master
+    type: public
