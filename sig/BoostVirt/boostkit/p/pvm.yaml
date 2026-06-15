@@ -4,3 +4,5 @@ description: "pvm: 鲲鹏轻量虚拟化pvm方案"
 branches:
   - name: master
     type: protected
+  - name: pvm-dev
+    type: public
