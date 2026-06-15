@@ -12,3 +12,4 @@
 |         `/reopen`        |                                  `/reopen`                       |   重新打开一个Issue。                           |    作者和SIG成员   |
 |         `/rebase`        |     `/rebase ` <br> `/rebase cancel`    |   添加(或取消)	`merge/rebase` 标签， PR 以 rebase 方式合入(或取消)                         |    SIG成员   |
 |         `/squash`        |     `/squash ` <br> `/squash cancel`    |   添加(或取消)	`merge/squash` 标签， PR 以 squash 方式合入(或取消)                    |    SIG成员   |
+|         `/review-by-doc-sig`        |     `/review-by-doc-sig `  |   添加(或取消)	`doc-sig-reviewed` 标签，                     |    doc-sig 成员   |
