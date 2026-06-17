@@ -24,7 +24,7 @@ repositories:
       - boostkit/boostvirt
       - boostkit/pvm
       - boostkit/CubeSandbox
-      - boostkit/VirtEfficiency
+      - boostkit/virt-efficiency
     committers:
       - gitcode_id: xxd-xiaodong_sp
         name: 谢晓东
