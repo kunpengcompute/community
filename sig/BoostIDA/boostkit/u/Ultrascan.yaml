@@ -10,3 +10,6 @@ branches:
     type: public
   - name: replaceAll
     type: public
+  - name: dev_hash
+    type: public
+    create_from: dev_26.1.RC1
