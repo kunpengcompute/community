@@ -13,3 +13,6 @@ branches:
   - name: dev_hash
     type: public
     create_from: dev_26.1.RC1
+  - name: br_bk26_630
+    type: public
+    create_from: dev_26.1.RC1

@@ -4,3 +4,6 @@ description: "vllm在鲲鹏平台上推理性能加速"
 branches:
   - name: master
     type: protected
+  - name: br_bk26_630
+    type: protected
+    create_from: master
