@@ -6,3 +6,6 @@ branches:
     type: public
   - name: bytedance-poc
     type: public
+  - name: br_bk26_630
+    type: public
+    create_from: master

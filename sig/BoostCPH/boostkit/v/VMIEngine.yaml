@@ -16,3 +16,10 @@ branches:
   - name: dev_aosp_merge
     type: public
     create_from: master
+  - name: br_bk26_630_from_master
+    type: protected
+    create_from: master
+  - name: br_bk26_630_from_dev_aosp15
+    type: public
+    create_from: dev_aosp15
+

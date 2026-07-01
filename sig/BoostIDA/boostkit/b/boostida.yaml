@@ -4,3 +4,6 @@ description: "boostida SIG信息"
 branches:
   - name: master
     type: public
+  - name: br_bk26_630
+    type: public
+    create_from: master
