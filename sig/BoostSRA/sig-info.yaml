@@ -35,6 +35,7 @@ repositories:
       - boostkit/hnswlib
       - boostkit/rabitq
       - boostkit/diskann
+      - boostkit/gd-hnsw
       - boostkit/vllm-ops
       - boostkit/vllm_router
       - boostkit/cmf
