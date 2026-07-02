@@ -1,0 +1,6 @@
+name: gd-hnsw
+type: public
+description: "全局分布式检索算法"
+branches:
+  - name: master
+    type: protected
