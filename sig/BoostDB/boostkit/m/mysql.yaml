@@ -31,3 +31,15 @@ branches:
   - name: MySQL-8.0.30-gbp
     type: public
     create_from: MySQL-8.0.32
+  - name: br_bk26_630_from_MySQL-8.0.30-gbp
+    type: public
+    create_from: MySQL-8.0.30-gbp
+  - name: br_bk26_630_from_master
+    type: public
+    create_from: master
+  - name: br_bk26_630_from_MySQL-Percona-Server-5.7.44-53
+    type: public
+    create_from: MySQL-Percona-Server-5.7.44-53
+  - name: br_bk26_630_from_MySQL-Percona-Server-8.0.43-34
+    type: public
+    create_from: MySQL-Percona-Server-8.0.43-34
