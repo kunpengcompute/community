@@ -10,3 +10,9 @@ branches:
   - name: dev_camera_passthrough
     type: public
     create_from: AOSP11
+  - name: br_bk26_630_from_AOSP11
+    type: public
+    create_from: AOSP11
+  - name: br_bk26_630_from_AOSP15
+    type: public
+    create_from: AOSP15

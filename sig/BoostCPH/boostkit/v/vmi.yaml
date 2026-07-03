@@ -10,3 +10,9 @@ branches:
   - name: dev_camera_passthrough
     type: public
     create_from: CloudPhone
+  - name: br_bk26_630_from_CloudPhone
+    type: public
+    create_from: CloudPhone
+  - name: br_bk26_630_from_CloudPhone15
+    type: public
+    create_from: CloudPhone15

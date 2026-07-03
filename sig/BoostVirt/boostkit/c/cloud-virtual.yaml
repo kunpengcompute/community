@@ -4,3 +4,6 @@ description: "cloud-virtual: 鲲鹏BoostKit虚拟化加速特性"
 branches:
   - name: master
     type: protected
+  - name: br_bk26_630
+    type: protected
+    create_from: master
