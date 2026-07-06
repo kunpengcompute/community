@@ -4,3 +4,9 @@ description: "KADD SIG信息"
 branches:
   - name: master
     type: public
+  - name: br_bk26_630
+    type: public
+  - name: dev
+    type: public
+  - name: tmp
+    type: public
