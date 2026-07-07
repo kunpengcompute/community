@@ -1,6 +1,6 @@
 name: Infra
 description: ""
-mailing_list: ""
+mailing_list: "infra@lists.boostkit.osinfra.cn"
 maintainers:
   - gitcode_id: georgecao
     name: 曹志
