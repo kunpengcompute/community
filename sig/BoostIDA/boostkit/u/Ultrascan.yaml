@@ -16,3 +16,6 @@ branches:
   - name: br_bk26_630
     type: public
     create_from: dev_26.1.RC1
+  - name: dev_26_930
+    type: public
+    create_from: master
