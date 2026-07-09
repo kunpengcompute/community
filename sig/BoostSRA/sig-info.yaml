@@ -26,6 +26,7 @@ repositories:
       - boostkit/tensorrt-llm
       - boostkit/kdnn
       - boostkit/monolith
+      - boostkit/onnxruntime
       - boostkit/kbest
       - boostkit/kscann
       - boostkit/kvecturbo
