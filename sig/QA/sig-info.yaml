@@ -1,14 +1,21 @@
 name: QA
-description: ""
+description: "BoostKit社区质量保障SIG，负责质量工程能力建设与维护"
 mailing_list: "qa@lists.boostkit.osinfra.cn"
 maintainers:
   - gitcode_id: mengjie16
     name: 孟杰
     organization: huawei
     email: mengjiefamily@163.com
+  - gitcode_id: aidilin
+    name: 林爱弟
+    organization: huawei
+    email: linaidi@huawei.com
 repositories:
   - repo:
       - boostkit/QA
+      - boostkit/automation_test
+      - boostkit/perfauto_test
+      - boostkit/cloudgame_test
     committers:
       - gitcode_id: lishutian
         name: 李述田
@@ -22,3 +29,12 @@ repositories:
         name: 李春香
         organization: huawei
         email: lcxzydhyy@163.com
+      - gitcode_id: jyiewauh
+        name: 江源
+        organization: huawei
+        email: jiangyuan35@h-partners.com
+      - gitcode_id: rythe
+        name: 何之瑾
+        organization: huawei
+        email: hezhijinry@163.com
+
