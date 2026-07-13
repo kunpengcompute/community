@@ -1,0 +1,6 @@
+name: automation_test
+type: private
+description: "Kunpeng BoostKit Automation Test Code"
+branches:
+  - name: master
+    type: protected

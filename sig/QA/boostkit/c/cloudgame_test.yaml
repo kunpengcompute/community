@@ -1,0 +1,6 @@
+name: cloudgame_test
+type: private
+description: "Kunpeng Cloud Game Automation Test Code"
+branches:
+  - name: master
+    type: protected
