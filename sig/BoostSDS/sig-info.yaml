@@ -17,7 +17,7 @@ maintainers:
 repositories:
   - repo:
       - boostkit/3FS
-      - boostkit/ceph
+      - boostkit/ceph_BK
       - boostkit/isa-l
       - boostkit/reedsolomon
       - boostkit/SegmentCache
