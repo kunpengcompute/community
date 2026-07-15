@@ -116,7 +116,7 @@ BoostKit社区采用SIGs轻量化运作模式，当前架构主要包括以下�
 - [特别兴趣小组（SIG-Special Interest Group）](https://gitcode.com/boostkit/community/tree/master/sig)
 - [TSC 治理章程](https://gitcode.com/boostkit/community/blob/master/docs/communication/tsc-governance.md)
 - [SIG角色说明](https://gitcode.com/boostkit/community/blob/master/docs/communication/role-definition-and-promotion-mechanism.md)
-- [BoostKit社区会议指南]([https://gitcode.com/boostkit/infra/blob/master/docs/meeting/meeting%E4%BC%9A%E8%AE%AE%E6%8C%87%E5%8D%97.md](https://gitcode.com/boostkit/infra/blob/master/docs/meeting/meeting会议指南.md))
+- [BoostKit社区会议指南](https://gitcode.com/boostkit/infra/blob/master/docs/meeting/meeting%E4%BC%9A%E8%AE%AE%E6%8C%87%E5%8D%97.md)
 
 ## 参与贡献
 
