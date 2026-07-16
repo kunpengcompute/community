@@ -4,3 +4,6 @@ description: "cloud-native: 鲲鹏BoostKit云原生加速特性"
 branches:
   - name: master
     type: protected
+  - name: br_26.2.RC1_devel
+    type: public
+    create_from: master
