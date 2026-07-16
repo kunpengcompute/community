@@ -8,3 +8,6 @@ branches:
     type: public
   - name: Percona-Server-5.7.44-53
     type: public
+  - name: Redis-7.0.15
+    type: public
+    create_from: master
