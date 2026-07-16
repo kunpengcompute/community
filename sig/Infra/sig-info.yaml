@@ -15,10 +15,6 @@ repositories:
         name: 姚孝添
         organization: huawei
         email: 176253319000@163.com
-      - gitcode_id: juneuu
-        name: 陈丽君
-        organization: huawei
-        email: chenlijun42@huawei.com
       - gitcode_id: lauyarn
         name: 刘阳
         organization: huawei
