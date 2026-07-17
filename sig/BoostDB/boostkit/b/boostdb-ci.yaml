@@ -14,3 +14,6 @@ branches:
   - name: OceanBase-4.2.5.6
     type: public
     create_from: master
+  - name: RocksDB-6.26.1
+    type: public
+    create_from: master
