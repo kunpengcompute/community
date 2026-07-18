@@ -31,4 +31,8 @@ repositories:
         name: 崔婧
         organization: huawei
         email: cuijing9@huawei.com
+      - gitcode_id: Zhao_Py
+        name: 赵鹏元
+        organization: huawei 
+        email: zhaopengyuan@hisilicon.com
  
