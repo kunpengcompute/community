@@ -6,3 +6,6 @@ branches:
     type: public
   - name: dev
     type: public
+  - name: dev_bk26_1230
+    type: public
+    create_from: master
