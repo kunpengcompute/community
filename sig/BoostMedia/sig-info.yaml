@@ -25,6 +25,7 @@ repositories:
       - boostkit/kvcl
       - boostkit/hmpp
       - boostkit/boostmedia
+      - boostkit/Media_2_0_0_AutoTest
     committers:
       - gitcode_id: huang-wen-jie
         name: 黄文杰

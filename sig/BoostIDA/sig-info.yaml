@@ -18,6 +18,7 @@ repositories:
       - boostkit/Ultrascan
       - boostkit/KTAG
       - boostkit/Megascan
+      - boostkit/kadd-open
     committers:
       - gitcode_id: guangsen
         name: 姬广森

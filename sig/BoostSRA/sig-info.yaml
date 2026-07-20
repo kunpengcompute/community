@@ -43,3 +43,4 @@ repositories:
       - boostkit/pytorch
       - boostkit/DNN
       - boostkit/kdnn-pre
+      - boostkit/llama-CPP

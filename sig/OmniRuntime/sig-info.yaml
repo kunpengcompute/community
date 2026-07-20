@@ -29,6 +29,7 @@ repositories:
       - boostkit/OmniStateStore
       - boostkit/boostkit-bigdata
       - boostkit/lance
+      - boostkit/daft
     committers:
       - gitcode_id: hyy_cyan
         name: 黄宇扬

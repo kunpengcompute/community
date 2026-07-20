@@ -16,6 +16,7 @@ repositories:
       - boostkit/automation_test
       - boostkit/perfauto_test
       - boostkit/cloudgame_test
+      - boostkit/Kunpeng_Boostkit_Automation_test
     committers:
       - gitcode_id: lishutian
         name: 李述田
