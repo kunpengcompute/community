@@ -13,12 +13,13 @@ maintainers:
 repositories:
   - repo:
       - boostkit/boostida
+      - boostkit/kadd-open
       - boostkit/KADD
       - boostkit/KDADK-MMPM
-      - boostkit/Ultrascan
       - boostkit/KTAG
       - boostkit/Megascan
-      - boostkit/kadd-open
+      - boostkit/snort3
+      - boostkit/Ultrascan
     committers:
       - gitcode_id: guangsen
         name: 姬广森
