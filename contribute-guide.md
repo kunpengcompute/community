@@ -68,9 +68,10 @@
 
 ### 三、如何在社区新增/修改项目
 
-1.  **Fork 并创建**：Fork `BoostKit/community` 仓库。参考现有项目的结构，创建新的项目目录并将该文件名称添加 `sig-info.yaml` 文件 ([参考链接](https://gitcode.com/BoostKit/community/blob/master/sig/README.md))。
+1.  **Fork 并创建**：Fork `BoostKit/community` 仓库。参考现有项目的结构，创建新的项目目录并将该文件名称添加 `sig-info.yaml` 文件 ([详细说明](https://gitcode.com/BoostKit/community/blob/master/sig/README.md))。
 2.  **提交 PR**：向 `BoostKit/community` 仓库的 `master` 分支提交 PR
-3.  **通过审查**：此 PR 需获得 `boostkit-cla/yes`, `lgtm`, `approved` 三个标签。其中`lgtm`, `approved`  需要 **TC member**去审批并评论       
+2.  **提交issue申请**：向 `BoostKit/community` 仓库提交issue，使用【创建仓库申请】模板，并按要求填写内容，[参考issue](https://gitcode.com/boostkit/community/issues/5)
+3.  **通过审查**：此 issue对应PR 需获得 `boostkit-cla/yes`, `lgtm`, `approved` 三个标签。其中`lgtm`, `approved`  需要 **TC member**去审批并评论       
 4. **机器人自动建仓**: PR合入后，机器人会自动创建仓库和分支    
   <br>
 
