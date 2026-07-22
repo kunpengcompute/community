@@ -125,6 +125,7 @@ BoostKit社区采用SIGs轻量化运作模式，当前架构主要包括以下�
 * [Issue提交指南](https://gitcode.com/boostkit/community/blob/master/docs/contributor/issue-submit.md)
 * [BoostKit社区命令使用手册](https://gitcode.com/boostkit/community/blob/master/command-guide.md)
 * [CLA使用指南](https://gitcode.com/boostkit/community/blob/master/docs/contributor/contributing.md)
+* [社区协作指南：CLA、代码提交、SIG创建及参与、新增及修改代码仓](https://gitcode.com/boostkit/community/blob/master/contribute-guide.md)
 
 # 快速体验
 
