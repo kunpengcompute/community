@@ -1,0 +1,8 @@
+name: eigen
+type: public
+description: "eigen SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: dev
+    type: public
