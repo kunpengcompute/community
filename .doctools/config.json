@@ -15,6 +15,69 @@
     }
   },
   "repo": {
+    "all": {
+      "extendConfig": "base"
+    },
+    "boostkit/community": {
+      "ci": []
+    },   
+    "boostkit/Kunpeng_Boostkit_Automation_test": {
+      "ci": []
+    },     
+    "boostkit/AccLibBenchmark": {
+      "ci": []
+    },     
+    "boostkit/infra": {
+      "ci": []
+    },      
+    "boostkit/skills": {
+      "ci": []
+    },       
+    "boostkit/brpc_UB": {
+      "ci": []
+    },     
+    "boostkit/virt-efficiency": {
+      "ci": []
+    },     
+    "boostkit/.gitcode": {
+      "ci": []
+    },      
+    "boostkit/ArmNativeCloudGame": {
+      "ci": []
+    },     
+    "boostkit/perfauto_test": {
+      "ci": []
+    },     
+    "boostkit/dragonwell17-kunpeng": {
+      "ci": []
+    },     
+    "boostkit/kmicrobench": {
+      "ci": []
+    }, 
+    "boostkit/QA": {
+      "ci": []
+    },    
+    "boostkit/Media_2_0_0_AutoTest": {
+      "ci": []
+    },   
+    "boostkit/release-management": {
+      "ci": []
+    },     
+    "boostkit/Security": {
+      "ci": []
+    },        
+    "boostkit/boostdb-ci": {
+      "ci": []
+    },      
+    "boostkit/haas": {
+      "ci": []
+    },     
+    "boostkit/kdnn-pre": {
+      "ci": []
+    },      
+    "boostkit/llama-CPP": {
+      "ci": []
+    },                   
     "boostkit/avx2ki": {
       "extendConfig": "base"
     },
