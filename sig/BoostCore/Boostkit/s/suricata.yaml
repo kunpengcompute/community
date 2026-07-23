@@ -6,3 +6,6 @@ branches:
     type: public
   - name: suricata-7.0.8-dadk
     type: public
+  - name: suricata-autofp-dpdk
+    type: public
+    create_from: suricata-7.0.8-dadk

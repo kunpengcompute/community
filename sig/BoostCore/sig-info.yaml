@@ -56,6 +56,7 @@ maintainers:
     email: wenmingyang@huawei.com  
 repositories:
   - repo:
+      - boostkit/eigen
       - boostkit/KAE
       - boostkit/zstd
       - boostkit/lz4
