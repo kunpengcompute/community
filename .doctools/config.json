@@ -165,7 +165,13 @@
       "extendConfig": "base"
     },
     "boostkit/faiss": {
-      "extendConfig": "base"
+        "ci":[
+        ] ,
+       "branches": {
+            "master": {       
+                "extendConfig": "base"
+            }
+      }
     },
     "boostkit/hnswlib": {
       "extendConfig": "base"
