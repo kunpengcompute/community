@@ -69,7 +69,6 @@ repositories:
       - boostkit/KUAF
       - boostkit/haas
       - boostkit/htl
-      - boostkit/HLC
       - boostkit/zlib
       - boostkit/ksonic-cpp
       - boostkit/kqmalloc

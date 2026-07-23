@@ -1,6 +1,0 @@
-name: HLC
-type: private
-description: "HLC SIG信息"
-branches:
-  - name: master
-    type: public
