@@ -26,6 +26,7 @@ repositories:
       - boostkit/hmpp
       - boostkit/boostmedia
       - boostkit/Media_2_0_0_AutoTest
+      - boostkit/openvino
     committers:
       - gitcode_id: huang-wen-jie
         name: 黄文杰

@@ -1,0 +1,6 @@
+name: openvino
+type: public
+description: "openvino SIG信息"
+branches:
+  - name: master
+    type: protected
