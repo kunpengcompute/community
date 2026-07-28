@@ -2,7 +2,7 @@
   "name": "boostkit文档检查配置",
   "config": {
     "base": {
-      "docPath": "docs|README.md|README_EN.md|README_en.md|README.en.md|README.EN.md",
+      "docPath": "docs|^README.md|^README_EN.md|^README_en.md|^README.en.md|^README.EN.md",
       "markdownlintRemoteConfigUrl": "https://raw.gitcode.com/boostkit/community/raw/master/.doctools/markdownlint.config.json",
       "linkValidityCheckRemoteWhitelistUrl": "https://raw.gitcode.com/boostkit/community/raw/master/.doctools/url.whitelist.json",
       "resourceExistenceCheckRemoteWhitelistUrl": "https://raw.gitcode.com/boostkit/community/raw/master/.doctools/url.whitelist.json",
@@ -17,7 +17,7 @@
   "repo": {
     "all": {
       "extendConfig": "base"
-    },
+    },      
     "boostkit/community": {
       "ci": []
     },   
@@ -77,11 +77,12 @@
     },      
     "boostkit/llama-CPP": {
       "ci": []
-    },                   
-    "boostkit/avx2ki": {
-      "extendConfig": "base"
-    },
+    },    
+    
     "boostkit/boostcore": {
+      "extendConfig": "base"
+    },                  
+    "boostkit/avx2ki": {
       "extendConfig": "base"
     },
     "boostkit/folly": {
@@ -102,7 +103,6 @@
     "boostkit/simdjson": {
       "extendConfig": "base"
     },
-
     "boostkit/rapidjson": {
       "extendConfig": "base"
     },
