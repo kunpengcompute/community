@@ -22,3 +22,6 @@ branches:
   - name: br_bk26_630_from_dev_aosp15
     type: public
     create_from: dev_aosp15
+  - name: dev_softrender
+    type: public
+    create_from: master
