@@ -23,3 +23,6 @@ branches:
   - name: function_br
     type: public
     create_from: master
+  - name: A-FOT
+    type: public
+    create_from: master
