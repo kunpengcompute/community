@@ -16,3 +16,6 @@ branches:
   - name: br_bk26_630_from_AOSP15
     type: public
     create_from: AOSP15
+  - name: dev_softrender
+    type: public
+    create_from: AOSP11
