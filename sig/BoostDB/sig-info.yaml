@@ -35,6 +35,7 @@ repositories:
       - boostkit/boostdb-ci
       - boostkit/boostkit-database
       - boostkit/OpenViking
+      - boostkit/oceanbase
     committers:
       - gitcode_id: zhengyuanyue
         name: 郑渊悦
