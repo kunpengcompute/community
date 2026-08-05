@@ -22,7 +22,6 @@ repositories:
       - boostkit/boostcph
       - boostkit/Kbox
       - boostkit/VMIEngine
-      - boostkit/ArmNativeCloudGame
     committers:
       - gitcode_id: maoyue0730
         name: 毛越
