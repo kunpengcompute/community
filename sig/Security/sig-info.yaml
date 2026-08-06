@@ -70,3 +70,7 @@ repositories:
         name: 黄浩纯
         organization: huawei
         email: huanghaochun@huawei.com
+      - gitcode_id: wd-gitcode
+        name: 王鼎
+        organization: huawei
+        email: wangding16@huawei.com

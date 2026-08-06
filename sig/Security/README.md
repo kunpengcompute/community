@@ -56,6 +56,7 @@
 | 包旻晨 | [@autumn_94](https://gitcode.com/autumn_94) | minchen_bao@foxmail.com |
 | 付炬 | [@nonces](https://gitcode.com/nonces) | 2774337358@qq.com |
 | 黄浩纯 | [@lindv](https://gitcode.com/lindv) | huanghaochun@huawei.com |
+| 王鼎 | [@wd-gitcode](https://gitcode.com/wd-gitcode) | wangding16@huawei.com |
 
 ## 角色和组织管理
 
