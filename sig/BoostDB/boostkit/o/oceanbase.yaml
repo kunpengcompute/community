@@ -1,0 +1,6 @@
+name: oceanbase
+type: private
+description: ""
+branches:
+  - name: master
+    type: public
