@@ -37,4 +37,12 @@ repositories:
         name: 赵鹏元
         organization: huawei 
         email: zhaopengyuan@hisilicon.com
+      - gitcode_id: lhowwhen
+        name: 刘浩文
+        organization: huawei
+        email: liuhaowen1@huawei.com
+      - gitcode_id: zongjun96
+        name: 李宗俊
+        organization: huawei
+        email: zongjun1114@gmail.com
  
