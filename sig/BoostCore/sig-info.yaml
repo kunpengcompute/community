@@ -108,6 +108,7 @@ repositories:
       - boostkit/Java-Benchmark
       - boostkit/spring-framework
       - boostkit/tomcat
+      - boostkit/fastgo
     committers:
       - gitcode_id: gong-xiaoting
         name: 龚晓婷
