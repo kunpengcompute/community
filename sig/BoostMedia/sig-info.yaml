@@ -14,13 +14,17 @@ maintainers:
     name: 黄文杰
     organization: huawei
     email: huangwenjie16@huawei.com
+  - gitcode_id: maoyue0730
+    name: 毛越
+    organization: huawei
+    email: maoyue5@huawei.com
 repositories:
   - repo:
       - boostkit/libavif
       - boostkit/libwebp
       - boostkit/ffmpeg
       - boostkit/opencv
-      - boostkit/vision
+      - boostkit/vision 
       - boostkit/x265
       - boostkit/kvcl
       - boostkit/hmpp
