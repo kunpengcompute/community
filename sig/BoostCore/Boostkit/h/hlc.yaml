@@ -1,0 +1,10 @@
+name: hlc
+type: private
+description: "hlc SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: dev
+    type: public
+  - name: clock
+    type: public
