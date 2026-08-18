@@ -72,6 +72,7 @@ repositories:
       - boostkit/KDADK-TOOLS
       - boostkit/KUAF
       - boostkit/haas
+      - boostkit/hlc
       - boostkit/htl
       - boostkit/zlib
       - boostkit/ksonic-cpp
