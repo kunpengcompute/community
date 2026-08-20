@@ -26,3 +26,10 @@ repositories:
         name: 余宇峰
         organization: huawei
         email: yuyufeng1@huawei.com
+  - repo:
+      - boostkit/vllm-ops
+      - boostkit/vllm_router
+      - boostkit/cmf
+      - boostkit/flash-engram
+      - boostkit/kdnn-pre
+      - boostkit/llama-CPP
