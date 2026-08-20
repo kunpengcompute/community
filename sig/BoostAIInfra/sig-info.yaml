@@ -1,6 +1,6 @@
-name: boostsra
+name: BoostAIInfra
 description: "鲲鹏BoostKit AI Infra套件旨在为大模型推理、AI应用开发与开源软件生态场景提供基于鲲鹏平台的应用层使能能力，涵盖缓存管理、数据并行路由、开源软件迁移适配与推理模型性能调优等"
-mailing_list: "boostsra@lists.boostkit.osinfra.cn"
+mailing_list: "boostaiinfra@lists.boostkit.osinfra.cn"
 maintainers:
   - gitcode_id: zeuscht
     name: 陈昊天
@@ -26,3 +26,10 @@ repositories:
         name: 余宇峰
         organization: huawei
         email: yuyufeng1@huawei.com
+  - repo:
+      - boostkit/vllm-ops
+      - boostkit/vllm_router
+      - boostkit/cmf
+      - boostkit/flash-engram
+      - boostkit/kdnn-pre
+      - boostkit/llama-CPP

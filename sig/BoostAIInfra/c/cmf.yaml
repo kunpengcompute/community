@@ -1,0 +1,9 @@
+name: cmf
+type: public
+description: "Cache Management Framework"
+branches:
+  - name: master
+    type: protected
+  - name: br_bk26_630
+    type: protected
+    create_from: master
