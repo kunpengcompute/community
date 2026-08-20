@@ -26,3 +26,6 @@ branches:
   - name: A-FOT
     type: public
     create_from: master
+  - name: bytedance
+    type: public
+    create_from: master
