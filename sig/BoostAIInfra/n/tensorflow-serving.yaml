@@ -1,0 +1,6 @@
+name: nano-vllm
+type: public
+description: "nano-vllm 优化"
+branches:
+  - name: master
+    type: protected
