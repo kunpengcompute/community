@@ -1,0 +1,28 @@
+name: boostsra
+description: "鲲鹏BoostKit AI Infra套件旨在为大模型推理、AI应用开发与开源软件生态场景提供基于鲲鹏平台的应用层使能能力，涵盖缓存管理、数据并行路由、开源软件迁移适配与推理模型性能调优等"
+mailing_list: "boostsra@lists.boostkit.osinfra.cn"
+maintainers:
+  - gitcode_id: zeuscht
+    name: 陈昊天
+    organization: huawei
+    email: chenhaotian16@huawei.com
+  - gitcode_id: lauyarn
+    name: 刘阳
+    organization: huawei
+    email: liuyang645@huawei.com
+  - gitcode_id: hellonbxx
+    name: 韩超
+    organization: huawei
+    email: hanchao63@huawei.com
+  - gitcode_id: Jiangyingxin
+    name: 蒋颖昕
+    organization: huawei
+    email: jiangyingxin1@huawei.com
+repositories:
+  - repo:
+      - boostkit/nano-vllm
+    committers:
+      - gitcode_id: yuyufeng
+        name: 余宇峰
+        organization: huawei
+        email: yuyufeng1@huawei.com
