@@ -107,6 +107,7 @@ repositories:
       - boostkit/LowLatencyLib
       - boostkit/kacc_crypto
       - boostkit/Java-Benchmark
+      - boostkit/SPECjbb2015
       - boostkit/spring-framework
       - boostkit/tomcat
       - boostkit/fastgo
