@@ -7,6 +7,9 @@ branches:
   - name: dev_xdgpu
     type: public
     create_from: CloudPhone
+  - name: dev_xdgpu_new
+    type: public
+    create_from: CloudPhone
   - name: dev_camera_passthrough
     type: public
     create_from: CloudPhone
