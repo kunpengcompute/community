@@ -28,6 +28,7 @@ repositories:
         email: yuyufeng1@huawei.com
   - repo:
       - boostkit/vllm-ops
+      - boostkit/vllm-dev
       - boostkit/vllm_router
       - boostkit/cmf
       - boostkit/flash-engram
