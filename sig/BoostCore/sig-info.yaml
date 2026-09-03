@@ -58,6 +58,14 @@ maintainers:
     name: 叶韦宏
     organization: huawei
     email: yeweihong@huawei.com
+  - gitcode_id: seekdwh
+    name: 董为浩
+    organization: huawei
+    email: dongweihao@huawei.com
+  - gitcode_id: xtluo18
+    name: 罗雪婷
+    organization: huawei
+    email: luoxueting2@huawei.com
 repositories:
   - repo:
       - boostkit/eigen
@@ -165,3 +173,11 @@ repositories:
         name: 龚良旭
         organization: huawei
         email: gongliangxu@huawei.com
+      - gitcode_id: seekdwh
+        name: 董为浩
+        organization: huawei
+        email: dongweihao@huawei.com
+      - gitcode_id: xtluo18
+        name: 罗雪婷
+        organization: huawei
+        email: luoxueting2@huawei.com
