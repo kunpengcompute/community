@@ -62,10 +62,6 @@ repositories:
         name: 包旻晨
         organization: huawei
         email: minchen_bao@foxmail.com
-      - gitcode_id: nonces
-        name: 付炬
-        organization: huawei
-        email: 2774337358@qq.com
       - gitcode_id: lindv
         name: 黄浩纯
         organization: huawei
