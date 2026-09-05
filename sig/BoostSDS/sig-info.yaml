@@ -29,6 +29,7 @@ repositories:
       - boostkit/hadoop
       - boostkit/spdk
       - boostkit/boostsds
+      - boostkit/KVcache_lossless_compression
     committers:
       - gitcode_id: injy
         name: 沈晨阳
