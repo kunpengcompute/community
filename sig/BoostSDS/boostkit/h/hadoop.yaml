@@ -1,0 +1,6 @@
+name: hadoop
+type: private
+description: "hadoop代码仓信息"
+branches:
+  - name: big_data
+    type: protected
