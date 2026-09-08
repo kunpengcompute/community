@@ -1,6 +1,6 @@
 name: hadoop
-type: public
+type: private
 description: "hadoop代码仓信息"
 branches:
-  - name: master
+  - name: big_data
     type: protected
