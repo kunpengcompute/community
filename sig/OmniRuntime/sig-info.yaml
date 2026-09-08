@@ -34,7 +34,6 @@ repositories:
       - boostkit/boostkit-bigdata
       - boostkit/lance
       - boostkit/daft
-      - boostkit/hadoop
     committers:
       - gitcode_id: hyy_cyan
         name: 黄宇扬

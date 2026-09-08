@@ -1,6 +1,0 @@
-name: hadoop
-type: public
-description: "hadoop代码仓信息"
-branches:
-  - name: master
-    type: protected
