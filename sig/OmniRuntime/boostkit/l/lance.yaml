@@ -4,3 +4,5 @@ description: "lance SIG信息"
 branches:
   - name: master
     type: protected
+  - name: release/v10.0
+    type: protected
