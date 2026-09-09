@@ -66,6 +66,10 @@ maintainers:
     name: 罗雪婷
     organization: huawei
     email: luoxueting2@huawei.com
+  - gitcode_id: wd-gitcode
+    name: 王鼎
+    organization: huawei
+    email: wangding16@huawei.com
 repositories:
   - repo:
       - boostkit/eigen
@@ -181,3 +185,7 @@ repositories:
         name: 罗雪婷
         organization: huawei
         email: luoxueting2@huawei.com
+      - gitcode_id: wd-gitcode
+        name: 王鼎
+        organization: huawei
+        email: wangding16@huawei.com
