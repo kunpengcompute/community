@@ -281,6 +281,9 @@
     "boostkit/vllm_router": {
       "extendConfig": "base"
     },
+    "boostkit/openvino": {
+      "extendConfig": "base"
+    },    
     "boostkit/boostvirt": {
       "extendConfig": "base"
     },

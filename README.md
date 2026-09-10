@@ -14,7 +14,7 @@ BoostKit社区包含多个项目，您可以根据实际场景，在对应的项
 |  [BoostDB](https://gitcode.com/boostkit/boostdb)| 数据库极致性能：BoostDB主页 |  
 |  [BoostSRA](https://gitcode.com/boostkit/boostsra)| 搜推广极致性能: BoostSRA主页 |  
 |  [BoostMedia](https://gitcode.com/boostkit/boostmedia)| 媒体极致吞吐: BoostMedia主页 |  
-|  [BoostBox](https://gitcode.com/boostkit/boostcph)| 云手机极致密度: BoostBox主页 |  
+|  [BoostCPH](https://gitcode.com/boostkit/boostcph)| 云手机极致密度: BoostCPH主页 |  
 |  [WAAS](https://gitcode.com/boostkit/waas)| WAAS负载感知加速系统 |  
 |  [BoostIDA](https://gitcode.com/boostkit/boostida)| 智能数据分析: BoostIDA主页 | 
 
