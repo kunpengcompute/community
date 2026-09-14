@@ -14,6 +14,10 @@ maintainers:
     name: 包旻晨
     organization: huawei
     email: minchen_bao@foxmail.com
+  - gitcode_id: yiding-wu
+    name: 吴一丁
+    organization: huawei
+    email: 707999813@qq.com
 repositories:
   - repo:
       - boostkit/3FS
