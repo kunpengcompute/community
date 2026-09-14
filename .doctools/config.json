@@ -317,6 +317,9 @@
     },
     "boostkit/waas": {
       "extendConfig": "base"
+    },
+    "boostkit/KTAG": {
+      "extendConfig": "base"
     }
   }
 }
