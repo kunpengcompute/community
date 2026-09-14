@@ -85,7 +85,7 @@
     "boostkit/avx2ki": {
       "extendConfig": "base"
     },
-    "boostkit/gd_hnsw": {
+    "boostkit/gd-hnsw": {
       "extendConfig": "base"
     },
     "boostkit/folly": {
