@@ -22,6 +22,14 @@ maintainers:
     name: 李晨昊
     organization: huawei
     email: 872049064@qq.com
+  - gitcode_id: feeling-shallow
+    name: 徐立
+    organization: huawei
+    email: 1061529620@qq.com
+  - gitcode_id: GOD_CHT
+    name: 陈海涛
+    organization: huawei
+    email: 765917163@qq.com
 repositories:
   - repo:
       - boostkit/omniruntime
@@ -59,3 +67,11 @@ repositories:
         name: 张志宏
         organization: huawei
         email: 122244799@qq.com
+      - gitcode_id: feeling-shallow
+        name: 徐立
+        organization: huawei
+        email: 1061529620@qq.com
+      - gitcode_id: GOD_CHT
+        name: 陈海涛
+        organization: huawei
+        email: 765917163@qq.com
