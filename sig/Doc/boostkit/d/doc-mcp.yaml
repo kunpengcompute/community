@@ -1,0 +1,6 @@
+name: doc-mcp
+type: private
+description: "鲲鹏（Kunpeng）社区文档MCP"
+branches:
+  - name: master
+    type: protected
