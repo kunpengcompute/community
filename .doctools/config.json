@@ -88,6 +88,9 @@
     "boostkit/gd-hnsw": {
       "extendConfig": "base"
     },
+    "boostkit/flash-engram": {
+      "extendConfig": "base"
+    },
     "boostkit/folly": {
       "extendConfig": "base"
     },
