@@ -85,7 +85,13 @@
     "boostkit/avx2ki": {
       "extendConfig": "base"
     },
-    "boostkit/gd-hnsw": {
+    "boostkit/kacc_crypto": {
+      "extendConfig": "base"
+    },
+    "boostkit/eigen": {
+      "extendConfig": "base"
+    },
+    "boostkit/hlc": {
       "extendConfig": "base"
     },
     "boostkit/folly": {
@@ -225,6 +231,9 @@
       "extendConfig": "base"
     },
     "boostkit/boostsra": {
+      "extendConfig": "base"
+    },
+    "boostkit/gd-hnsw": {
       "extendConfig": "base"
     },
     "boostkit/cmf": {
