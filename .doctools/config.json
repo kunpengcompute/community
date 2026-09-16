@@ -75,10 +75,27 @@
     "boostkit/kdnn-pre": {
       "ci": []
     },      
-    "boostkit/llama-CPP": {
+    "boostkit/Kbox": {
       "ci": []
-    },    
-    
+    }, 
+    "boostkit/VMIEngine": {
+      "ci": []
+    },  
+    "boostkit/HiEBS": {
+      "extendConfig": "base"
+    },  
+    "boostkit/KVcache_lossless_compression": {
+      "extendConfig": "base"
+    },  
+    "boostkit/Megascan": {
+      "extendConfig": "base"
+    },   
+    "boostkit/onnxruntime": {
+      "extendConfig": "base"
+    }, 
+    "boostkit/llama-CPP": {
+      "extendConfig": "base"
+    },        
     "boostkit/boostcore": {
       "extendConfig": "base"
     },                  
@@ -94,6 +111,9 @@
     "boostkit/hlc": {
       "extendConfig": "base"
     },
+    "boostkit/brpc": {
+      "extendConfig": "base"
+    },    
     "boostkit/flash-engram": {
       "extendConfig": "base"
     },
@@ -151,6 +171,9 @@
     "boostkit/kadd-open": {
       "extendConfig": "base"
     },
+    "boostkit/KADD": {
+      "extendConfig": "base"
+    },
     "boostkit/KDADK-TOOLS": {
       "extendConfig": "base"
     },       
@@ -183,6 +206,9 @@
       "extendConfig": "base"
     },
     "boostkit/redis-dtoe": {
+      "extendConfig": "base"
+    },
+    "boostkit/oceanbase": {
       "extendConfig": "base"
     },
     "boostkit/boostmedia": {
@@ -228,6 +254,9 @@
       "extendConfig": "base"
     },
     "boostkit/reedsolomon": {
+      "extendConfig": "base"
+    },
+    "boostkit/mooncake": {
       "extendConfig": "base"
     },
     "boostkit/spdk": {
