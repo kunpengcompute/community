@@ -39,3 +39,7 @@ repositories:
         name: 沈晨阳
         organization: huawei
         email: shenchenyang1@hisilicon.com
+      - gitcode_id: lsjhw
+        name: 李圣杰
+        organization: huawei
+        email: lishengjie12@huawei.com
