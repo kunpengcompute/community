@@ -39,3 +39,8 @@ repositories:
       - boostkit/gd-hnsw
       - boostkit/pytorch
       - boostkit/DNN
+  committers:
+      - gitcode_id: littleli99
+        name: 李锐宜
+        organization: huawei
+        email: liruiyi5@huawei.com
