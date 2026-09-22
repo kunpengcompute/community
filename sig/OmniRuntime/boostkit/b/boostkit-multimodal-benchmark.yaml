@@ -1,0 +1,6 @@
+name: boostkit-multimodal-benchmark
+type: public
+description: "多模态数据工程 CPU 侧基准：把真实多模态数据处理链路抽象为可重复执行的 benchmark，在公平性协议下度量不同引擎与 CPU 架构"
+branches:
+  - name: master
+    type: protected
