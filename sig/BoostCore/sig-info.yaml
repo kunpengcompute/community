@@ -124,6 +124,7 @@ repositories:
       - boostkit/tomcat
       - boostkit/fastgo
       - boostkit/compiler-test
+      - boostkit/dpdk
     committers:
       - gitcode_id: gong-xiaoting
         name: 龚晓婷

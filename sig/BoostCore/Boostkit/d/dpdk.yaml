@@ -1,0 +1,8 @@
+name: dpdk
+type: public
+description: "dpdk SIG信息"
+branches:
+  - name: master
+    type: public
+  - name: dev
+    type: public
