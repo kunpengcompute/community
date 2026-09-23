@@ -32,3 +32,6 @@ branches:
   - name: RocksDB-8.3.3
     type: public
     create_from: master
+  - name: Milvus-3.0.0-develop
+    type: public
+    create_from: master
