@@ -22,3 +22,9 @@ branches:
   - name: dev_softrender
     type: public
     create_from: CloudPhone
+  - name: br_bk26_930_from_CloudPhone
+    type: public
+    create_from: CloudPhone
+  - name: br_bk26_930_from_CloudPhone15
+    type: public
+    create_from: CloudPhone15
