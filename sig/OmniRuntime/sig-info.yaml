@@ -42,7 +42,7 @@ repositories:
       - boostkit/boostkit-bigdata
       - boostkit/lance
       - boostkit/daft
-      - boostkit/boostkit-multimodal-benchmark
+      - boostkit/data-infra-bench
     committers:
       - gitcode_id: hyy_cyan
         name: 黄宇扬
