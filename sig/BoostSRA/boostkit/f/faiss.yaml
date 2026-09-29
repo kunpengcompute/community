@@ -6,3 +6,4 @@ branches:
     type: protected
   - name: br_bk26_930
     type: protected
+    create_from: master
