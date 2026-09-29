@@ -28,3 +28,9 @@ branches:
   - name: dev_Cuttlefish
     type: public
     create_from: AOSP11
+  - name: br_bk26_930_from_AOSP11
+    type: public
+    create_from: AOSP11
+  - name: br_bk26_930_from_AOSP15
+    type: public
+    create_from: AOSP15
