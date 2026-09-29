@@ -12,4 +12,4 @@ branches:
     type: public
   - name: br_bk26_930
     type: public
-    create_from: master
+    create_from: dev

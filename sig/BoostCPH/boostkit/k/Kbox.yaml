@@ -29,5 +29,5 @@ branches:
     type: public
     create_from: master
   - name: br_bk26_930
-    type: public
+    type: protected
     create_from: master

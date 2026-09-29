@@ -4,6 +4,3 @@ description: "Megascan SIG信息"
 branches:
   - name: master
     type: public
-  - name: br_bk26_930
-    type: protected
-    create_from: master
