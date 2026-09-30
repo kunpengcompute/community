@@ -1,0 +1,6 @@
+name: OmniSubOperator
+type: public
+description: "OmniSubOperator SIG信息"
+branches:
+  - name: master
+    type: protected

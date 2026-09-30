@@ -43,6 +43,7 @@ repositories:
       - boostkit/lance
       - boostkit/daft
       - boostkit/data-infra-bench
+      - boostkit/OmniSubOperator
     committers:
       - gitcode_id: hyy_cyan
         name: 黄宇扬
