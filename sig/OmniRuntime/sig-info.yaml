@@ -43,7 +43,6 @@ repositories:
       - boostkit/lance
       - boostkit/daft
       - boostkit/data-infra-bench
-      - boostkit/OmniSubOperator
     committers:
       - gitcode_id: hyy_cyan
         name: 黄宇扬
@@ -77,3 +76,22 @@ repositories:
         name: 陈海涛
         organization: huawei
         email: 765917163@qq.com
+  - repo:
+      - boostkit/OmniSubOperator
+    committers:
+      - gitcode_id: hyy_cyan
+        name: 黄宇扬
+        organization: huawei
+        email: huangyuyang1@huawei.com
+      - gitcode_id: Ray0915
+        name: 芮蕾
+        organization: huawei
+        email: ruilei1@huawei.com
+      - gitcode_id: xiangyunwu
+        name: 向云武
+        organization: huawei
+        email: xiangyunwu1@huawei.com
+      - gitcode_id: zhy61718
+        name: 赵鸿宇
+        organization: huawei
+        email: zhaohongyu15@huawei.com
