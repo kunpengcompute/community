@@ -1,0 +1,24 @@
+name: BoostAgentInfra
+description: "鲲鹏BoostKit Agent Infra套件旨在为大模型智能体（Agent）应用开发与运行场景提供基于鲲鹏平台的使能能力，涵盖智能体框架适配、评测、推理加速、工具链与生态组件优化等"
+mailing_list: "boostagentinfra@lists.boostkit.osinfra.cn"
+maintainers:
+  - gitcode_id: linpengcheng1994
+    name: 林鹏程
+    organization: huawei
+    email: linpengcheng2@huawei.com
+  - gitcode_id: lauyarn
+    name: 刘阳
+    organization: huawei
+    email: liuyang645@huawei.com
+  - gitcode_id: wang_yajun
+    name: 王亚军
+    organization: huawei
+    email: wangyajun48@huawei.com
+repositories:
+  - repo:
+    - boostkit/AgentEval
+    committers:
+      - gitcode_id: gcw_INEtxeWa
+        name: 肖逸然
+        organization: huawei
+        email: 850142189@qq.com
