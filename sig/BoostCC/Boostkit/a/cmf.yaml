@@ -1,0 +1,6 @@
+name: AgentMoss
+type: public
+description: "Agent Runtime Security Detection Solution Based on Kunpeng Hardware"
+branches:
+  - name: master
+    type: protected
