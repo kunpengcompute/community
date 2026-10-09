@@ -40,7 +40,6 @@ repositories:
       - boostkit/Gluten
       - boostkit/OmniStateStore
       - boostkit/boostkit-bigdata
-      - boostkit/lance
       - boostkit/daft
       - boostkit/data-infra-bench
     committers:
@@ -95,3 +94,18 @@ repositories:
         name: 赵鸿宇
         organization: huawei
         email: zhaohongyu15@huawei.com
+  - repo:
+      - boostkit/lance
+    committers:
+      - gitcode_id: firewalls
+        name: 关文选
+        organization: huawei
+        email: guanwenxuan@huawei.com
+      - gitcode_id: beautygua
+        name: 黄子寒
+        organization: huawei
+        email: huangzihan8@huawei.com
+      - gitcode_id: XuanYuL5
+        name: 刘轩宇
+        organization: huawei
+        email: liuxuanyu2000a@163.com
