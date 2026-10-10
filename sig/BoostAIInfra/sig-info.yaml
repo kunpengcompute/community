@@ -18,6 +18,10 @@ maintainers:
     name: 蒋颖昕
     organization: huawei
     email: jiangyingxin1@huawei.com
+  - gitcode_id: gobyte
+    name: 叶伟荣
+    organization: huawei
+    email: yeweirong1@huawei.com
 repositories:
   - repo:
       - boostkit/vllm-dev
@@ -33,3 +37,8 @@ repositories:
       - boostkit/flash-engram
       - boostkit/kdnn-pre
       - boostkit/llama-CPP
+    committers:
+      - gitcode_id: yuyufeng
+        name: 余宇峰
+        organization: huawei
+        email: yuyufeng1@huawei.com
