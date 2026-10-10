@@ -1,5 +1,5 @@
 name: Megascan
-type: private
+type: public
 description: "Megascan SIG信息"
 branches:
   - name: master
