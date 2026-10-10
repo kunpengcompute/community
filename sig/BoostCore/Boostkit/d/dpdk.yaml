@@ -4,5 +4,7 @@ description: "dpdk SIG信息"
 branches:
   - name: master
     type: public
-  - name: dev
+  - name: dev-26.3.T
+    type: public
+  - name: main
     type: public
