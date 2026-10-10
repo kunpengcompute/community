@@ -1,5 +1,5 @@
 name: KADD
-type: private
+type: public
 description: "KADD SIG信息"
 branches:
   - name: master
