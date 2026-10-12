@@ -39,6 +39,7 @@ repositories:
       - boostkit/gd-hnsw
       - boostkit/pytorch
       - boostkit/DNN
+      - boostkit/vsag
     committers:
       - gitcode_id: littleli99
         name: 李锐宜
