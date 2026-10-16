@@ -38,6 +38,9 @@ branches:
   - name: Milvus-3.0.0-develop
     type: public
     create_from: master
+  - name: Milvus-3.0.0
+    type: public
+    create_from: Milvus-3.0.0-develop
   - name: br_bk26_930
     type: public
     create_from: master
