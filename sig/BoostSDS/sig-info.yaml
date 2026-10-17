@@ -34,6 +34,7 @@ repositories:
       - boostkit/spdk
       - boostkit/boostsds
       - boostkit/KVcache_lossless_compression
+      - boostkit/strata_mem
     committers:
       - gitcode_id: injy
         name: 沈晨阳
