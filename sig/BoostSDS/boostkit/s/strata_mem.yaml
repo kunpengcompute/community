@@ -1,0 +1,7 @@
+name: strata_mem
+type: public
+description: "strata_mem SIG信息"
+branches:
+  - name: master
+    type: protected
+
