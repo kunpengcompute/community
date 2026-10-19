@@ -4,5 +4,9 @@ description: "snort3 SIG信息"
 branches:
   - name: master
     type: public
+  - name: libdaq
+    type: public
+    create_from: master
   - name: dev
     type: public
+    create_from: master
