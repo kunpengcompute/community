@@ -40,6 +40,7 @@ repositories:
       - boostkit/pytorch
       - boostkit/DNN
       - boostkit/vsag
+      - boostkit/memos
     committers:
       - gitcode_id: littleli99
         name: 李锐宜

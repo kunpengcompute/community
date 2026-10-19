@@ -1,0 +1,6 @@
+name: memos
+type: public
+description: "memos优化"
+branches:
+  - name: master
+    type: protected
