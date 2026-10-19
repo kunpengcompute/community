@@ -10,3 +10,6 @@ branches:
   - name: dev_266
     type: protected
     create_from: master
+  - name: dev_vvenc_1.12
+    type: protected
+    create_from: master
