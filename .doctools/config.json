@@ -280,6 +280,15 @@
             }
       }
     },
+    "boostkit/vsag": {
+      "ci":[
+      ] ,
+     "branches": {
+          "master": {       
+              "extendConfig": "base"
+          }
+    }
+  },
     "boostkit/hnswlib": {
       "extendConfig": "base"
     },
