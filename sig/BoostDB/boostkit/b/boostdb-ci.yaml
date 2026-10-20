@@ -44,3 +44,9 @@ branches:
   - name: br_bk26_930
     type: public
     create_from: master
+  - name: RocksDB-10.1.3
+    type: public
+    create_from: master
+  - name: kernel-6.6.0-132
+    type: public
+    create_from: master
