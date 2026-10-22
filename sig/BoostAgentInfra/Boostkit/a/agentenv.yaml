@@ -1,0 +1,6 @@
+name: AgentENV
+type: public
+description: "基于上游社区源码进行鲲鹏优化适配的补丁仓"
+branches:
+  - name: master
+    type: protected

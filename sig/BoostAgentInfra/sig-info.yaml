@@ -25,6 +25,7 @@ maintainers:
 repositories:
   - repo:
     - boostkit/AgentEval
+    - boostkit/AgentENV
     committers:
       - gitcode_id: gcw_INEtxeWa
         name: 肖逸然
