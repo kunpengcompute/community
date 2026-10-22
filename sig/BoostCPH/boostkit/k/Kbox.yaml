@@ -31,3 +31,6 @@ branches:
   - name: br_bk26_930
     type: protected
     create_from: master
+  - name: dev_AndroidSandbox
+    type: public
+    create_from: master
