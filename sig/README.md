@@ -52,7 +52,7 @@ maintainers: # SIG maintainer
     name: 曹志
     organization: huawei
     email: george.cao@huawei.com
-repo_groups: # SIG仓库组（逻辑概念）；每个仓库组中的仓库具有相同的committer、member和repo_admin
+repositories: # SIG仓库组（逻辑概念）；每个仓库组中的仓库具有相同的committer、member和repo_admin
   - repos:
       - boostkit/community
       - boostkit/infra
