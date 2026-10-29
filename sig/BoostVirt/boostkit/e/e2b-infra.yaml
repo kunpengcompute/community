@@ -1,0 +1,8 @@
+name: e2b-infra
+type: private
+description: "e2b-infra: e2b兼容鲲鹏版本，包括批量构建分发template等"
+branches:
+  - name: master
+    type: protected
+  - name: br_26.3.0_devel
+    type: public
