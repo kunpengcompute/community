@@ -41,6 +41,7 @@ repositories:
       - boostkit/DNN
       - boostkit/vsag
       - boostkit/memos
+      - boostkit/sra_benchmark
     committers:
       - gitcode_id: littleli99
         name: 李锐宜

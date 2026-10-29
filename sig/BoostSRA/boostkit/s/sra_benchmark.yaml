@@ -1,0 +1,6 @@
+name: sra_benchmark
+type: public
+description: "搜推广 Benchmark"
+branches:
+  - name: master
+    type: protected
