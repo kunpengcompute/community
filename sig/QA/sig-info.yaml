@@ -17,11 +17,18 @@ repositories:
       - boostkit/perfauto_test
       - boostkit/cloudgame_test
       - boostkit/Kunpeng_Boostkit_Automation_test
-    committers:
-      - gitcode_id: lishutian
-        name: 李述田
+    
+    repo_admin: 
+      - gitcode_id: mengjie16
+        name: 孟杰
         organization: huawei
-        email: lishutian1@huawei.com
+        email: mengjiefamily@163.com
+      - gitcode_id: jyiewauh
+        name: 江源
+        organization: huawei
+        email: jiangyuan35@h-partners.com
+
+    committers:
       - gitcode_id: zhangli257
         name: 张莉
         organization: huawei
