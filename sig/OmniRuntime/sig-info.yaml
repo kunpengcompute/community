@@ -44,6 +44,7 @@ repositories:
       - boostkit/data-infra-bench
       - boostkit/rust-snappy
       - boostkit/arrow-rs
+      - boostkit/arrow2
     committers:
       - gitcode_id: hyy_cyan
         name: 黄宇扬
