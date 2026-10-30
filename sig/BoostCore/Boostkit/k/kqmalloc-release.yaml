@@ -1,0 +1,7 @@
+name: kqmalloc-release
+type: public
+description: "kqmalloc-release SIG信息"
+branches:
+  - name: master
+    type: public
+

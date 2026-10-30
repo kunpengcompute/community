@@ -7,3 +7,6 @@ branches:
   - name: hw265-dev
     type: protected
     create_from: master
+  - name: dev_ads
+    type: protected
+    create_from: master

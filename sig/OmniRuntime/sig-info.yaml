@@ -18,6 +18,18 @@ maintainers:
     name: 吴一丁
     organization: huawei
     email: 707999813@qq.com
+  - gitcode_id: Oldli883
+    name: 李晨昊
+    organization: huawei
+    email: 872049064@qq.com
+  - gitcode_id: feeling-shallow
+    name: 徐立
+    organization: huawei
+    email: 1061529620@qq.com
+  - gitcode_id: GOD_CHT
+    name: 陈海涛
+    organization: huawei
+    email: 765917163@qq.com
 repositories:
   - repo:
       - boostkit/omniruntime
@@ -28,7 +40,8 @@ repositories:
       - boostkit/Gluten
       - boostkit/OmniStateStore
       - boostkit/boostkit-bigdata
-      - boostkit/lance
+      - boostkit/daft
+      - boostkit/data-infra-bench
     committers:
       - gitcode_id: hyy_cyan
         name: 黄宇扬
@@ -54,3 +67,45 @@ repositories:
         name: 张志宏
         organization: huawei
         email: 122244799@qq.com
+      - gitcode_id: feeling-shallow
+        name: 徐立
+        organization: huawei
+        email: 1061529620@qq.com
+      - gitcode_id: GOD_CHT
+        name: 陈海涛
+        organization: huawei
+        email: 765917163@qq.com
+  - repo:
+      - boostkit/OmniSubOperator
+    committers:
+      - gitcode_id: hyy_cyan
+        name: 黄宇扬
+        organization: huawei
+        email: huangyuyang1@huawei.com
+      - gitcode_id: Ray0915
+        name: 芮蕾
+        organization: huawei
+        email: ruilei1@huawei.com
+      - gitcode_id: xiangyunwu
+        name: 向云武
+        organization: huawei
+        email: xiangyunwu1@huawei.com
+      - gitcode_id: zhy61718
+        name: 赵鸿宇
+        organization: huawei
+        email: zhaohongyu15@huawei.com
+  - repo:
+      - boostkit/lance
+    committers:
+      - gitcode_id: firewalls
+        name: 关文选
+        organization: huawei
+        email: guanwenxuan@huawei.com
+      - gitcode_id: beautygua
+        name: 黄子寒
+        organization: huawei
+        email: huangzihan8@huawei.com
+      - gitcode_id: XuanYuL5
+        name: 刘轩宇
+        organization: huawei
+        email: liuxuanyu2000a@163.com

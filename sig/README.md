@@ -22,7 +22,7 @@
 |--|--|--|
 | `name` | string | SIG组名称，与目录名相同 |
 | `description` | string | SIG组描述信息 |
-| `maintainers` | sequence | SIG组所有Maintainer的信息 |
+| `maintainers` | sequence | SIG组所有Maintainer的信息， SIG-Maintainer权限 |
 | `repositories` | sequence | SIG组管理的仓库信息 |
 
 其中，`repositories`的每一个元素代表一个仓库组（逻辑概念），每个仓库组中的仓库具有相同的Committer：
@@ -30,7 +30,8 @@
 | 字段 | 类型 |  说明 |
 |--|--|--|
 | `repos` | sequence | 一组SIG仓库的信息 |
-| `committers` | sequence | 仓库组所有Committer的信息 |
+| `repo_admin` | sequence | 仓库owner, 维护者权限 |
+| `committers` | sequence | 仓库组所有Committer的信息， SIG-Committer 权限|
 
 根节点下`maintainers`的每一个元素代表SIG中的一位Maintainer，具有SIG下所有仓库的PR合入权限；`repositories`每个元素下的`committers` 的每一个元素分别代表仓库组中的一位Committer；Committer具有该仓库组下所有仓库的PR合入权限
 
@@ -51,15 +52,45 @@ maintainers: # SIG maintainer
     name: 曹志
     organization: huawei
     email: george.cao@huawei.com
-repo_groups: # SIG仓库组（逻辑概念）；每个仓库组中的仓库具有相同的committer、member和repo_admin
+repositories: # SIG仓库组（逻辑概念）；每个仓库组中的仓库具有相同的committer、member和repo_admin
   - repos:
       - boostkit/community
       - boostkit/infra
+    repo_admin:  # 仓库owner
+      - gitcode_id: zwjsec
+        name: 翟文杰
+        organization: huawei
+        email: zhaiwenjie1@huawei.com
+      - gitcode_id: xxx
+        name: xxx
+        organization: huawei
+        email: xxx@huawei.com
     committers: # 仓库committer
       - gitcode_id: yao-xiaobai
         name: 姚孝添
         organization: huawei
         email: 176253319000@163.com
+      - gitcode_id: lauyarn
+        name: 刘阳
+        organization: huawei
+        email: liuyang645@huawei.com
+      - gitcode_id: zwjsec
+        name: 翟文杰
+        organization: huawei
+        email: zhaiwenjie1@huawei.com
+
+  - repos:
+      - boostkit/xxx
+    repo_admin:  # 仓库owner
+      - gitcode_id: xxx
+        name: xxx
+        organization: huawei
+        email: xxx@huawei.com
+    committers: # 仓库committer
+      - gitcode_id: xxx
+        name: xxx
+        organization: xxx
+        email: xxx@163.com
 ```
 
 ### 仓库配置信息

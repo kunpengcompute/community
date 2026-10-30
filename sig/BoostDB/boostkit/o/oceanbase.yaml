@@ -1,0 +1,9 @@
+name: oceanbase
+type: private
+description: ""
+branches:
+  - name: master
+    type: public
+  - name: br_bk26_930
+    type: public
+    create_from: master

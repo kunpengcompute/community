@@ -1,0 +1,6 @@
+name: AgentEval
+type: public
+description: "agent harness轨迹评测框架"
+branches:
+  - name: master
+    type: protected

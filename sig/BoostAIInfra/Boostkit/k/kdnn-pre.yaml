@@ -1,0 +1,6 @@
+name: kdnn-pre
+type: private
+description: ""
+branches:
+  - name: main
+    type: protected

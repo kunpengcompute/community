@@ -29,3 +29,5 @@ repositories:
         name: 魏婧涵
         organization: huawei
         email: weijinghan@huawei.com
+  - repo:
+      - boostkit/doc-mcp

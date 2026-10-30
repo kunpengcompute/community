@@ -1,5 +1,5 @@
 name: KADD
-type: private
+type: public
 description: "KADD SIG信息"
 branches:
   - name: master
@@ -10,3 +10,6 @@ branches:
     type: public
   - name: tmp
     type: public
+  - name: br_bk26_930
+    type: public
+    create_from: dev

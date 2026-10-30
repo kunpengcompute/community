@@ -1,0 +1,6 @@
+name: overlaybd
+type: public
+description: "Overlaybd (overlay block device) is a novel layering block-level image format, which is design for container, secure container and applicable to virtual machine."
+branches:
+  - name: master
+    type: protected

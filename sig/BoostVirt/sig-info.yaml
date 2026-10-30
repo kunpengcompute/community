@@ -33,6 +33,8 @@ repositories:
   - repo:
       - boostkit/cloud-native
       - boostkit/MicroservicesBench
+      - boostkit/CubeSandbox
+      - boostkit/e2b-infra
     committers:
       - gitcode_id: yuncongyue
         name: 刘雨晴

@@ -26,6 +26,7 @@ repositories:
       - boostkit/tensorrt-llm
       - boostkit/kdnn
       - boostkit/monolith
+      - boostkit/onnxruntime
       - boostkit/kbest
       - boostkit/kscann
       - boostkit/kvecturbo
@@ -36,10 +37,13 @@ repositories:
       - boostkit/rabitq
       - boostkit/diskann
       - boostkit/gd-hnsw
-      - boostkit/vllm-ops
-      - boostkit/vllm_router
-      - boostkit/cmf
-      - boostkit/flash-engram
       - boostkit/pytorch
       - boostkit/DNN
-      - boostkit/kdnn-pre
+      - boostkit/vsag
+      - boostkit/memos
+      - boostkit/sra_benchmark
+    committers:
+      - gitcode_id: littleli99
+        name: 李锐宜
+        organization: huawei
+        email: liruiyi5@huawei.com

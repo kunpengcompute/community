@@ -1,0 +1,36 @@
+name: BoostCC
+description: "BoostCC基于内生国密、机密计算等自主可控根技术，面向互联网、金融、运营商、安平等业务场景，提供端到端安全解决方案及行业最佳实践"
+mailing_list: "boostcc@lists.boostkit.osinfra.cn"
+maintainers:
+  - gitcode_id: lixiaomingg
+    name: Huhua Li
+    organization: huawei
+    email: lihuhua@huawei.com
+  - gitcode_id: hjx_gitff
+    name: Jingxian He
+    organization: huawei
+    email: hejingxian@huawei.com
+  - gitcode_id: gongchangsui
+    name: Qiang Zhang
+    organization: huawei
+    email: zhangqiang226@huawei.com
+repositories:
+  - repo:
+      - boostkit/AgentMoss
+    committers:
+      - gitcode_id: gcw_jnqaqu30
+        name: Bin Fang
+        organization: huawei
+        email: fang.bin@huawei.com
+      - gitcode_id: kenhkl
+        name: Kangli He
+        organization: huawei
+        email: hekangli@huawei.com
+      - gitcode_id: smartwangwang_h
+        name: Cong Wang
+        organization: huawei
+        email: wangcong48@huawei.com
+      - gitcode_id: wade_wolzzi
+        name: Qingbo Zhou
+        organization: huawei
+        email: zhouqingbo1@huawei.com

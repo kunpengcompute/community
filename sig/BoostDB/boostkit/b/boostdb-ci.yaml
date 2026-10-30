@@ -14,9 +14,39 @@ branches:
   - name: OceanBase-4.2.5.6
     type: public
     create_from: master
+  - name: OceanBase-4.2.5.6-develop
+    type: public
+    create_from: OceanBase-4.2.5.6
   - name: RocksDB-6.26.1
     type: public
     create_from: master
   - name: function_br
+    type: public
+    create_from: master
+  - name: A-FOT
+    type: public
+    create_from: master
+  - name: bytedance
+    type: public
+    create_from: master
+  - name: RocksDB-8.3.3
+    type: public
+    create_from: master
+  - name: RocksDB-6.1.2
+    type: public
+    create_from: master
+  - name: Milvus-3.0.0-develop
+    type: public
+    create_from: master
+  - name: Milvus-3.0.0
+    type: public
+    create_from: Milvus-3.0.0-develop
+  - name: br_bk26_930
+    type: public
+    create_from: master
+  - name: RocksDB-10.1.3
+    type: public
+    create_from: master
+  - name: kernel-6.6.0-132
     type: public
     create_from: master

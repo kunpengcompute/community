@@ -1,0 +1,15 @@
+name: OmniSubOperator
+type: public
+description: "OmniSubOperator SIG信息"
+branches:
+  - name: master
+    type: protected
+  - name: 2026_1230_dev
+    type: protected
+    create_from: master
+  - name: 2026_1230_dev_velox
+    type: protected
+    create_from: master
+  - name: 2026_1230_dev_omni
+    type: protected
+    create_from: master

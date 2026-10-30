@@ -1,0 +1,9 @@
+name: vllm_router
+type: public
+description: "vllm数据并行插件"
+branches:
+  - name: master
+    type: protected
+  - name: br_bk26_630
+    type: protected
+    create_from: master

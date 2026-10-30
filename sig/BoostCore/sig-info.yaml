@@ -53,9 +53,26 @@ maintainers:
   - gitcode_id: wenmingyang
     name: 温名阳
     organization: huawei
-    email: wenmingyang@huawei.com  
+    email: wenmingyang@huawei.com
+  - gitcode_id: weihongye
+    name: 叶韦宏
+    organization: huawei
+    email: yeweihong@huawei.com
+  - gitcode_id: seekdwh
+    name: 董为浩
+    organization: huawei
+    email: dongweihao@huawei.com
+  - gitcode_id: xtluo18
+    name: 罗雪婷
+    organization: huawei
+    email: luoxueting2@huawei.com
+  - gitcode_id: wd-gitcode
+    name: 王鼎
+    organization: huawei
+    email: wangding16@huawei.com
 repositories:
   - repo:
+      - boostkit/eigen
       - boostkit/KAE
       - boostkit/zstd
       - boostkit/lz4
@@ -67,10 +84,12 @@ repositories:
       - boostkit/KDADK-TOOLS
       - boostkit/KUAF
       - boostkit/haas
+      - boostkit/hlc
       - boostkit/htl
       - boostkit/zlib
       - boostkit/ksonic-cpp
       - boostkit/kqmalloc
+      - boostkit/kqmalloc-release
       - boostkit/jemalloc
       - boostkit/malloc-bench
       - boostkit/avx2ki
@@ -100,6 +119,13 @@ repositories:
       - boostkit/simdjson
       - boostkit/LowLatencyLib
       - boostkit/kacc_crypto
+      - boostkit/Java-Benchmark
+      - boostkit/SPECjbb2015
+      - boostkit/spring-framework
+      - boostkit/tomcat
+      - boostkit/fastgo
+      - boostkit/compiler-test
+      - boostkit/dpdk
     committers:
       - gitcode_id: gong-xiaoting
         name: 龚晓婷
@@ -153,3 +179,15 @@ repositories:
         name: 龚良旭
         organization: huawei
         email: gongliangxu@huawei.com
+      - gitcode_id: seekdwh
+        name: 董为浩
+        organization: huawei
+        email: dongweihao@huawei.com
+      - gitcode_id: xtluo18
+        name: 罗雪婷
+        organization: huawei
+        email: luoxueting2@huawei.com
+      - gitcode_id: wd-gitcode
+        name: 王鼎
+        organization: huawei
+        email: wangding16@huawei.com

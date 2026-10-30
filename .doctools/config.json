@@ -2,7 +2,7 @@
   "name": "boostkit文档检查配置",
   "config": {
     "base": {
-      "docPath": "docs|README.md|README_EN.md|README_en.md|README.en.md|README.EN.md",
+      "docPath": "docs|^README.md|^README_EN.md|^README_en.md|^README.en.md|^README.EN.md",
       "markdownlintRemoteConfigUrl": "https://raw.gitcode.com/boostkit/community/raw/master/.doctools/markdownlint.config.json",
       "linkValidityCheckRemoteWhitelistUrl": "https://raw.gitcode.com/boostkit/community/raw/master/.doctools/url.whitelist.json",
       "resourceExistenceCheckRemoteWhitelistUrl": "https://raw.gitcode.com/boostkit/community/raw/master/.doctools/url.whitelist.json",
@@ -15,10 +15,106 @@
     }
   },
   "repo": {
+    "all": {
+      "extendConfig": "base"
+    },      
+    "boostkit/community": {
+      "ci": []
+    },   
+    "boostkit/Kunpeng_Boostkit_Automation_test": {
+      "ci": []
+    },     
+    "boostkit/AccLibBenchmark": {
+      "ci": []
+    },     
+    "boostkit/infra": {
+      "ci": []
+    },      
+    "boostkit/skills": {
+      "ci": []
+    },       
+    "boostkit/brpc_UB": {
+      "ci": []
+    },     
+    "boostkit/virt-efficiency": {
+      "ci": []
+    },     
+    "boostkit/.gitcode": {
+      "ci": []
+    },      
+    "boostkit/ArmNativeCloudGame": {
+      "ci": []
+    },     
+    "boostkit/perfauto_test": {
+      "ci": []
+    },     
+    "boostkit/dragonwell17-kunpeng": {
+      "ci": []
+    },     
+    "boostkit/kmicrobench": {
+      "ci": []
+    }, 
+    "boostkit/QA": {
+      "ci": []
+    },    
+    "boostkit/Media_2_0_0_AutoTest": {
+      "ci": []
+    },   
+    "boostkit/release-management": {
+      "ci": []
+    },     
+    "boostkit/Security": {
+      "ci": []
+    },        
+    "boostkit/boostdb-ci": {
+      "ci": []
+    },      
+    "boostkit/haas": {
+      "ci": []
+    },     
+    "boostkit/kdnn-pre": {
+      "ci": []
+    },      
+    "boostkit/Kbox": {
+      "ci": []
+    }, 
+    "boostkit/VMIEngine": {
+      "ci": []
+    },  
+    "boostkit/HiEBS": {
+      "extendConfig": "base"
+    },  
+    "boostkit/KVcache_lossless_compression": {
+      "extendConfig": "base"
+    },  
+    "boostkit/Megascan": {
+      "extendConfig": "base"
+    },   
+    "boostkit/onnxruntime": {
+      "extendConfig": "base"
+    }, 
+    "boostkit/llama-CPP": {
+      "extendConfig": "base"
+    },        
+    "boostkit/boostcore": {
+      "extendConfig": "base"
+    },                  
     "boostkit/avx2ki": {
       "extendConfig": "base"
     },
-    "boostkit/boostcore": {
+    "boostkit/kacc_crypto": {
+      "extendConfig": "base"
+    },
+    "boostkit/eigen": {
+      "extendConfig": "base"
+    },
+    "boostkit/hlc": {
+      "extendConfig": "base"
+    },
+    "boostkit/brpc": {
+      "extendConfig": "base"
+    },    
+    "boostkit/flash-engram": {
       "extendConfig": "base"
     },
     "boostkit/folly": {
@@ -39,7 +135,6 @@
     "boostkit/simdjson": {
       "extendConfig": "base"
     },
-
     "boostkit/rapidjson": {
       "extendConfig": "base"
     },
@@ -76,6 +171,9 @@
     "boostkit/kadd-open": {
       "extendConfig": "base"
     },
+    "boostkit/KADD": {
+      "extendConfig": "base"
+    },
     "boostkit/KDADK-TOOLS": {
       "extendConfig": "base"
     },       
@@ -108,6 +206,9 @@
       "extendConfig": "base"
     },
     "boostkit/redis-dtoe": {
+      "extendConfig": "base"
+    },
+    "boostkit/oceanbase": {
       "extendConfig": "base"
     },
     "boostkit/boostmedia": {
@@ -155,18 +256,39 @@
     "boostkit/reedsolomon": {
       "extendConfig": "base"
     },
+    "boostkit/mooncake": {
+      "extendConfig": "base"
+    },
     "boostkit/spdk": {
       "extendConfig": "base"
     },
     "boostkit/boostsra": {
       "extendConfig": "base"
     },
+    "boostkit/gd-hnsw": {
+      "extendConfig": "base"
+    },
     "boostkit/cmf": {
       "extendConfig": "base"
     },
     "boostkit/faiss": {
-      "extendConfig": "base"
+        "ci":[
+        ] ,
+       "branches": {
+            "master": {       
+                "extendConfig": "base"
+            }
+      }
     },
+    "boostkit/vsag": {
+      "ci":[
+      ] ,
+     "branches": {
+          "master": {       
+              "extendConfig": "base"
+          }
+    }
+  },
     "boostkit/hnswlib": {
       "extendConfig": "base"
     },
@@ -212,6 +334,9 @@
     "boostkit/vllm_router": {
       "extendConfig": "base"
     },
+    "boostkit/openvino": {
+      "extendConfig": "base"
+    },    
     "boostkit/boostvirt": {
       "extendConfig": "base"
     },
@@ -241,6 +366,9 @@
       "extendConfig": "base"
     },
     "boostkit/waas": {
+      "extendConfig": "base"
+    },
+    "boostkit/KTAG": {
       "extendConfig": "base"
     }
   }
