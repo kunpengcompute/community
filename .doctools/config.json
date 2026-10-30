@@ -95,7 +95,10 @@
     }, 
     "boostkit/llama-CPP": {
       "extendConfig": "base"
-    },        
+    },  
+    "boostkit/OpenViking": {
+      "extendConfig": "base"
+    },      
     "boostkit/boostcore": {
       "extendConfig": "base"
     },                  
