@@ -1,0 +1,6 @@
+name: arrow-rs
+type: public
+description: "arrow-rs代码仓信息"
+branches:
+  - name: main
+    type: protected
