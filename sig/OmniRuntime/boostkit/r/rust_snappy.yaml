@@ -1,6 +1,0 @@
- name: rust-snappy
- 	 type: public
- 	 description: "rust-snappy代码仓信息"
- 	 branches:
- 	   - name: master
- 	     type: protected
