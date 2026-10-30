@@ -78,6 +78,10 @@ repositories:
         name: 陈海涛
         organization: huawei
         email: 765917163@qq.com
+      - gitcode_id: suizhiyuan
+        name: 隋致远
+        organization: huawei
+        email: suizhiyuan021435@gmail.com
   - repo:
       - boostkit/OmniSubOperator
     committers:
@@ -112,3 +116,7 @@ repositories:
         name: 刘轩宇
         organization: huawei
         email: liuxuanyu2000a@163.com
+      - gitcode_id: suizhiyuan
+        name: 隋致远
+        organization: huawei
+        email: suizhiyuan021435@gmail.com
