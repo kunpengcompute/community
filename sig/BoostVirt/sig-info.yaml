@@ -20,11 +20,31 @@ maintainers:
     email: liangjiechao@huawei.com
 repositories:
   - repo:
+      - boostkit/CubeSandbox
+    repo_admin:
+      - gitcode_id: juneuu
+        name: 陈丽君
+        organization: huawei
+        email: chenlijun42@huawei.com
+    committers:
+      - gitcode_id: xxd-xiaodong_sp
+        name: 谢晓东
+        organization: huawei
+        email: 624338359@qq.com
+      - gitcode_id: yuncongyue
+        name: 刘雨晴
+        organization: huawei
+        email: liuyuqing39@huawei.com
+  - repo:
       - boostkit/cloud-virtual
       - boostkit/boostvirt
       - boostkit/pvm
-      - boostkit/CubeSandbox
       - boostkit/virt-efficiency
+    repo_admin:
+      - gitcode_id: juneuu
+        name: 陈丽君
+        organization: huawei
+        email: chenlijun42@huawei.com
     committers:
       - gitcode_id: xxd-xiaodong_sp
         name: 谢晓东
@@ -33,8 +53,12 @@ repositories:
   - repo:
       - boostkit/cloud-native
       - boostkit/MicroservicesBench
-      - boostkit/CubeSandbox
       - boostkit/e2b-infra
+    repo_admin:
+      - gitcode_id: juneuu
+        name: 陈丽君
+        organization: huawei
+        email: chenlijun42@huawei.com
     committers:
       - gitcode_id: yuncongyue
         name: 刘雨晴
