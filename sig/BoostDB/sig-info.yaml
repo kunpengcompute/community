@@ -6,18 +6,18 @@ maintainers:
     name: 王晨光
     organization: huawei
     email: wangdaminger@qq.com
-  - gitcode_id: huyizhen
-    name: 胡义臻
+  - gitcode_id: libiao2024
+    name: 李标
     organization: huawei
-    email: huyizhen2024@163.com
+    email: 1102510224@qq.com
   - gitcode_id: xurr2020
     name: 许荣荣
     organization: huawei
     email: nbuxrr@139.com
-  - gitcode_id: ljw_kent
-    name: 李锦威
+  - gitcode_id: zhengyuanyue
+    name: 郑渊悦
     organization: huawei
-    email: 470921944@qq.com
+    email: im_zyy@hotmail.com
 repositories:
   - repo:
       - boostkit/kraio
@@ -36,28 +36,37 @@ repositories:
       - boostkit/boostkit-database
       - boostkit/OpenViking
       - boostkit/oceanbase
+    repo_admin:  # 仓库owner
+      - gitcode_id: chen-guang-wang
+        name: 王晨光
+        organization: huawei
+        email: wangdaminger@qq.com
     committers:
-      - gitcode_id: zhengyuanyue
-        name: 郑渊悦
+      - gitcode_id: ljw_kent
+        name: 李锦威
         organization: huawei
-        email: im_zyy@hotmail.com
-      - gitcode_id: seekdwh
-        name: 董为浩
+        email: 470921944@qq.com
+#      - gitcode_id: seekdwh
+#        name: 董为浩
+#        organization: huawei
+#        email: 707264794@qq.com
+#      - gitcode_id: wupei
+#        name: 吴沛
+#        organization: huawei
+#        email: 644210294@qq.com
+#      - gitcode_id: guoshaohong1
+#        name: 郭少烘
+#        organization: huawei
+#        email: guo_shaohong@163.com
+#      - gitcode_id: mutouyuguo
+#        name: 俞安琪
+#        organization: huawei
+#        email: yaq-1944@hotmail.com
+#      - gitcode_id: liujian56
+#        name: 刘建
+#        organization: huawei
+#        email: liujian56@huawei.com
+      - gitcode_id: huyizhen
+        name: 胡义臻
         organization: huawei
-        email: 707264794@qq.com
-      - gitcode_id: wupei
-        name: 吴沛
-        organization: huawei
-        email: 644210294@qq.com
-      - gitcode_id: guoshaohong1
-        name: 郭少烘
-        organization: huawei
-        email: guo_shaohong@163.com
-      - gitcode_id: mutouyuguo
-        name: 俞安琪
-        organization: huawei
-        email: yaq-1944@hotmail.com
-      - gitcode_id: liujian56
-        name: 刘建
-        organization: huawei
-        email: liujian56@huawei.com
+        email: huyizhen2024@163.com
