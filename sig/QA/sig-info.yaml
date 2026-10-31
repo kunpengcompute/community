@@ -10,6 +10,14 @@ maintainers:
     name: 李春香
     organization: huawei
     email: lcxzydhyy@163.com
+  - gitcode_id: lauyarn
+    name: 刘阳
+    organization: huawei
+    email: liuyang645@huawei.com
+  - gitcode_id: liushilong
+    name: 刘世隆
+    organization: huawei
+    email: liushilong1@huawei.com
 repositories:
   - repo:
       - boostkit/QA
