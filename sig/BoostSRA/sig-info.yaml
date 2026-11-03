@@ -41,6 +41,7 @@ repositories:
       - boostkit/DNN
       - boostkit/vsag
       - boostkit/memos
+      - boostkit/OpenViking
       - boostkit/sra_benchmark
     committers:
       - gitcode_id: littleli99

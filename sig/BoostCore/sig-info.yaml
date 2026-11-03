@@ -88,10 +88,6 @@ repositories:
       - boostkit/htl
       - boostkit/zlib
       - boostkit/ksonic-cpp
-      - boostkit/kqmalloc
-      - boostkit/kqmalloc-release
-      - boostkit/jemalloc
-      - boostkit/malloc-bench
       - boostkit/avx2ki
       - boostkit/kpglibc
       - boostkit/suricata
@@ -191,3 +187,17 @@ repositories:
         name: 王鼎
         organization: huawei
         email: wangding16@huawei.com
+  - repo:
+      - boostkit/kqmalloc
+      - boostkit/kqmalloc-release
+      - boostkit/jemalloc
+      - boostkit/malloc-bench
+    repo_admin:
+      - gitcode_id: huang-xiaoquan
+        name: 黄晓权
+        organization: huawei
+        email: huangxiaoquan1@huawei.com
+      - gitcode_id: qq_44302067
+        name: 陈一帆
+        organization: huawei
+        email: 1182564018@qq.com

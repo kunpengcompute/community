@@ -1,0 +1,6 @@
+name: arrow2
+type: public
+description: "arrow2代码仓信息"
+branches:
+  - name: main
+    type: protected

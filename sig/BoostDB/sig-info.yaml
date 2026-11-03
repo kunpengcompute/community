@@ -34,7 +34,6 @@ repositories:
       - boostkit/boostdb
       - boostkit/boostdb-ci
       - boostkit/boostkit-database
-      - boostkit/OpenViking
       - boostkit/oceanbase
     repo_admin:  # 仓库owner
       - gitcode_id: chen-guang-wang
