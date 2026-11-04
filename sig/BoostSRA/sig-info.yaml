@@ -19,7 +19,7 @@ maintainers:
     organization: huawei
     email: liulin162@huawei.com
 repositories:
-  - repo:
+  - repos:
       - boostkit/boostsra
       - boostkit/tensorflow
       - boostkit/tensorflow-serving
@@ -43,8 +43,17 @@ repositories:
       - boostkit/memos
       - boostkit/OpenViking
       - boostkit/sra_benchmark
+    repo_admin:
+      - gitcode_id: lloraine_Liu
+        name: 刘琳
+        organization: huawei
+        email: liulin162@huawei.com
     committers:
       - gitcode_id: littleli99
         name: 李锐宜
         organization: huawei
         email: liruiyi5@huawei.com
+      - gitcode_id: lloraine_Liu
+        name: 刘琳
+        organization: huawei
+        email: liulin162@huawei.com
