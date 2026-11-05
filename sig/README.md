@@ -29,7 +29,7 @@
 
 | 字段 | 类型 |  说明 |
 |--|--|--|
-| `repos` | sequence | 一组SIG仓库的信息 |
+| `repo` | sequence | 一组SIG仓库的信息 |
 | `repo_admin` | sequence | 仓库owner, 维护者权限 |
 | `committers` | sequence | 仓库组所有Committer的信息， SIG-Committer 权限|
 
@@ -53,7 +53,7 @@ maintainers: # SIG maintainer
     organization: huawei
     email: george.cao@huawei.com
 repositories: # SIG仓库组（逻辑概念）；每个仓库组中的仓库具有相同的committer、member和repo_admin
-  - repos:
+  - repo:
       - boostkit/community
       - boostkit/infra
     repo_admin:  # 仓库owner
@@ -79,7 +79,7 @@ repositories: # SIG仓库组（逻辑概念）；每个仓库组中的仓库具�
         organization: huawei
         email: zhaiwenjie1@huawei.com
 
-  - repos:
+  - repo:
       - boostkit/xxx
     repo_admin:  # 仓库owner
       - gitcode_id: xxx
