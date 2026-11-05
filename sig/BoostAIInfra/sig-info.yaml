@@ -37,6 +37,8 @@ repositories:
       - boostkit/flash-engram
       - boostkit/kdnn-pre
       - boostkit/llama-CPP
+      - boostkit/sglang-ops
+      - boostkit/boostaiinfra
     committers:
       - gitcode_id: yuyufeng
         name: 余宇峰
