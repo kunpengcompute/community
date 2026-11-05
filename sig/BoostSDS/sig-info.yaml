@@ -15,7 +15,7 @@ maintainers:
     organization: huawei
     email: 707999813@qq.com
 repositories:
-  - repos:
+  - repo:
       - boostkit/3FS
       - boostkit/ceph_BK
       - boostkit/isa-l
