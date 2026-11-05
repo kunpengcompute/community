@@ -32,6 +32,19 @@ repositories:
       - boostkit/Media_2_0_0_AutoTest
       - boostkit/openvino
       - boostkit/UBToolkit
+    repo_admin:  # 仓库owner
+      - gitcode_id: lianqiye
+        name: 练启业
+        organization: huawei
+        email: lianqiye@huawei.com
+      - gitcode_id: rebecca-liu66
+        name: 刘玉
+        organization: huawei
+        email: liuyu3@huawei.com
+      - gitcode_id: maoyue0730
+        name: 毛越
+        organization: huawei
+        email: maoyue5@huawei.com
     committers:
       - gitcode_id: huang-wen-jie
         name: 黄文杰
