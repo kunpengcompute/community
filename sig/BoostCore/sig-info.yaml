@@ -31,7 +31,7 @@ maintainers:
     organization: huawei
     email: wangding16@huawei.com
 repositories:
-  - repos: #加速库
+  - repo: #加速库
       - boostkit/eigen
       - boostkit/KAE
       - boostkit/zstd
@@ -95,7 +95,7 @@ repositories:
         organization: huawei
         email: dongweihao@huawei.com
 
-  - repos: #编译器&微服务&平台
+  - repo: #编译器&微服务&平台
       - boostkit/kqmalloc
       - boostkit/kqmalloc-release
       - boostkit/jemalloc

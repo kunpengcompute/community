@@ -19,7 +19,7 @@ maintainers:
     organization: huawei
     email: liulin162@huawei.com
 repositories:
-  - repos:
+  - repo:
       - boostkit/boostsra
       - boostkit/tensorflow
       - boostkit/tensorflow-serving
