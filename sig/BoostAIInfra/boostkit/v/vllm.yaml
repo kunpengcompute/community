@@ -1,4 +1,4 @@
-name: vllm-ops
+name: vllm
 type: public
 description: "vllm在鲲鹏平台上推理性能加速"
 branches:
