@@ -95,7 +95,7 @@ repositories:
         organization: huawei
         email: dongweihao@huawei.com
 
-  - repo: #编译器&微服务&平台
+  - repo: #编译器&微服务
       - boostkit/kqmalloc
       - boostkit/kqmalloc-release
       - boostkit/jemalloc
@@ -116,8 +116,6 @@ repositories:
       - boostkit/sonic
       - boostkit/msgp
       - boostkit/Brotli4j
-      - boostkit/numpy
-      - boostkit/pandas
     repo_admin:
       - gitcode_id: huang-xiaoquan
         name: 黄晓权
@@ -140,6 +138,28 @@ repositories:
         name: 陈一帆
         organization: huawei
         email: 1182564018@qq.com
+
+  - repo: #平台
+      - boostkit/numpy
+      - boostkit/pandas
+    repo_admin:
+      - gitcode_id: wenmingyang 
+        name: 温名阳 
+        organization: huawei
+        email: wenmingyang@huawei.com
+      - gitcode_id: linjiyuan
+        name: 林纪元
+        organization: huawei
+        email: linjiyuan1@huawei.com
+    committers:
+      - gitcode_id: xiaoji113
+        name: 周永哲
+        organization: huawei
+        email: zhouyongzhe@huawei.com
+      - gitcode_id: linjiyuan
+        name: 林纪元
+        organization: huawei
+        email: linjiyuan1@huawei.com
       - gitcode_id: xiaoji113
         name: 周永哲
         organization: huawei
@@ -152,7 +172,7 @@ repositories:
         name: 卢俊来
         organization: huawei
         email: lujunlai@huawei.com
-      - gitcode_id: suxianqun
-        name: 苏现群
+      - gitcode_id: wenmingyang 
+        name: 温名阳 
         organization: huawei
-        email: suxianqun@huawei.com
+        email: wenmingyang@huawei.com
