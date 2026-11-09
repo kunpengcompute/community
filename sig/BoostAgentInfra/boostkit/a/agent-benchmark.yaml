@@ -1,0 +1,6 @@
+name: agent-benchmark
+type: public
+description: "鲲鹏agent-benchmark"
+branches:
+  - name: master
+    type: protected
