@@ -265,9 +265,6 @@
     "boostkit/reedsolomon": {
       "extendConfig": "base"
     },
-    "boostkit/mooncake": {
-      "extendConfig": "base"
-    },
     "boostkit/spdk": {
       "extendConfig": "base"
     },
