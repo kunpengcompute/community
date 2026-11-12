@@ -6,6 +6,9 @@ branches:
     type: public
   - name: kae2
     type: public
+  - name: kae2_provider
+    type: public
+    create_from: kae2
   - name: dev_kae2_for_ByteDance
     type: public
   - name: br_bk26_630
