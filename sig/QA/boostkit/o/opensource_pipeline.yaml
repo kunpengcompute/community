@@ -1,0 +1,6 @@
+name: opensource_pipeline
+type: private
+description: "Open Source Out-of-the-box Pipeline"
+branches:
+  - name: master
+    type: protected

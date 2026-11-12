@@ -25,7 +25,8 @@ repositories:
       - boostkit/perfauto_test
       - boostkit/cloudgame_test
       - boostkit/Kunpeng_Boostkit_Automation_test
-    
+      - boostkit/opensource_pipeline
+      
     repo_admin: 
       - gitcode_id: mengjie16
         name: 孟杰
