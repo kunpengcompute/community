@@ -142,6 +142,10 @@ repositories:
         name: 陈一帆
         organization: huawei
         email: 1182564018@qq.com
+      - gitcode_id: rfwang07
+        name: 王如锋
+        organization: huawei
+        email: wangrufeng5@huawei.com
 
   - repo: #平台
       - boostkit/numpy
