@@ -45,6 +45,7 @@ repositories:
       - boostkit/rust-snappy
       - boostkit/arrow-rs
       - boostkit/arrow2
+      - boostkit/orc
     committers:
       - gitcode_id: hyy_cyan
         name: 黄宇扬

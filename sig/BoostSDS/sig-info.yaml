@@ -17,7 +17,7 @@ maintainers:
 repositories:
   - repo:
       - boostkit/3FS
-      - boostkit/ceph_BK
+      - boostkit/ceph
       - boostkit/isa-l
       - boostkit/reedsolomon
       - boostkit/SegmentCache
@@ -31,6 +31,7 @@ repositories:
       - boostkit/boostsds
       - boostkit/KVcache_lossless_compression
       - boostkit/strata_mem
+      - boostkit/HiEBS
     repo_admin:
       - gitcode_id: Enigmo-x
         name: 郭涛玮

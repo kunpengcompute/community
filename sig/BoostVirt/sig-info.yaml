@@ -40,6 +40,7 @@ repositories:
       - boostkit/boostvirt
       - boostkit/pvm
       - boostkit/virt-efficiency
+      - boostkit/overlaybd
     repo_admin:
       - gitcode_id: juneuu
         name: 陈丽君

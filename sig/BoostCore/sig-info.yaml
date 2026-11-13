@@ -64,6 +64,8 @@ repositories:
       - boostkit/kacc_crypto
       - boostkit/dpdk
       - boostkit/kitex
+      - boostkit/brpc_UB
+      - boostkit/UB-bench
     repo_admin:
       - gitcode_id: Sirus_L
         name: 廖思睿
@@ -116,6 +118,8 @@ repositories:
       - boostkit/sonic
       - boostkit/msgp
       - boostkit/Brotli4j
+      - boostkit/jrt4kunpeng
+      - boostkit/dragonwell17-kunpeng
     repo_admin:
       - gitcode_id: huang-xiaoquan
         name: 黄晓权
