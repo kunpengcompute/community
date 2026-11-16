@@ -26,9 +26,15 @@ repositories:
   - repo:
     - boostkit/AgentEval
     - boostkit/AgentENV
-    - boostkit/agent-benchmark
     committers:
       - gitcode_id: gcw_INEtxeWa
         name: 肖逸然
         organization: huawei
         email: 850142189@qq.com
+  - repo:
+    - boostkit/agent-benchmark
+    committers:
+      - gitcode_id: aidilin
+        name: 林爱弟
+        organization: huawei
+        email: linaidi@huawei.com
