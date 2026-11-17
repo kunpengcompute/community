@@ -1,0 +1,6 @@
+name: ceph_BK
+type: public
+description: "ceph_BK SIG信息"
+branches:
+  - name: master
+    type: protected
