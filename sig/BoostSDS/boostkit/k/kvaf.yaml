@@ -1,0 +1,6 @@
+name: kvaf
+type: public
+description: "kvaf SIG信息"
+branches:
+  - name: main
+    type: protected
