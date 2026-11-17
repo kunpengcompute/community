@@ -32,6 +32,7 @@ repositories:
       - boostkit/KVcache_lossless_compression
       - boostkit/strata_mem
       - boostkit/HiEBS
+      - boostkit/kvaf
     repo_admin:
       - gitcode_id: Enigmo-x
         name: 郭涛玮
