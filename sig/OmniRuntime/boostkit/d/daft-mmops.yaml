@@ -1,0 +1,6 @@
+name: daft-mmops
+type: public
+description: "Multimodal helpers and operations in Daft"
+branches:
+  - name: master
+    type: protected
