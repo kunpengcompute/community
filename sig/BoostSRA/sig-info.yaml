@@ -10,14 +10,22 @@ maintainers:
     name: 刘阳
     organization: huawei
     email: liuyang645@huawei.com
-  - gitcode_id: RuanDing
-    name: 阮定
-    organization: huawei
-    email: ruanding@huawei.com
   - gitcode_id: lloraine_Liu
     name: 刘琳
     organization: huawei
     email: liulin162@huawei.com
+  - gitcode_id: littleli99
+    name: 李锐宜
+    organization: huawei
+    email: liruiyi5@huawei.com
+  - gitcode_id: codesheepchen
+    name: 陈嘉珣
+    organization: huawei
+    email: chenjiaxun2@163.com
+  - gitcode_id: zhouwenjun1031
+    name: 周文军
+    organization: huawei
+    email: zhouwenjun6@huawei.com
 repositories:
   - repo:
       - boostkit/boostsra
@@ -57,3 +65,19 @@ repositories:
         name: 刘琳
         organization: huawei
         email: liulin162@huawei.com
+      - gitcode_id: codesheepchen
+        name: 陈嘉珣
+        organization: huawei
+        email: chenjiaxun2@163.com
+      - gitcode_id: zhouwenjun1031
+        name: 周文军
+        organization: huawei
+        email: zhouwenjun6@huawei.com
+      - gitcode_id: One
+        name: 王一望
+        organization: huawei
+        email: wangyiwang@huawei.com
+      - gitcode_id: liuliuyiyidingding
+        name: 刘亦丁
+        organization: huawei
+        email: ssycssyx@qq.com
