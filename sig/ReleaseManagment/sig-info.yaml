@@ -35,10 +35,6 @@ repositories:
         name: 孟杰
         organization: huawei
         email: mengjiefamily@163.com
-      - gitcode_id: gong-xiaoting
-        name: 龚晓婷
-        organization: huawei
-        email: gongxiaoting@huawei.com
       - gitcode_id: guangsen
         name: 姬广森
         organization: huawei
@@ -211,10 +207,6 @@ repositories:
         name: 吴一丁
         organization: huawei
         email: 707999813@qq.com
-      - gitcode_id: jianmin_gc
-        name: 黄剑敏
-        organization: huawei
-        email: huangjianmin@huawei.com
       - gitcode_id: u013217006
         name: 郭焕亮
         organization: huawei
