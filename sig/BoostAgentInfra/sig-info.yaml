@@ -6,31 +6,23 @@ maintainers:
     name: 林鹏程
     organization: huawei
     email: linpengcheng2@huawei.com
-  - gitcode_id: lauyarn
-    name: 刘阳
-    organization: huawei
-    email: liuyang645@huawei.com
   - gitcode_id: wang_yajun
     name: 王亚军
     organization: huawei
     email: wangyajun48@huawei.com
-  - gitcode_id: davidfunn
-    name: 方健尔
-    organization: huawei
-    email: davidfje@163.com
-  - gitcode_id: gcw_INEtxeWa
-    name: 肖逸然
-    organization: huawei
-    email: 850142189@qq.com
 repositories:
   - repo:
     - boostkit/AgentEval
     - boostkit/AgentENV
     committers:
-      - gitcode_id: gcw_INEtxeWa
-        name: 肖逸然
+      - gitcode_id: davidfunn
+        name: 方健尔
         organization: huawei
-        email: 850142189@qq.com
+        email: davidfje@163.com
+      - gitcode_id: RuanDing
+        name: 阮定
+        organization: huawei
+        email: ruanding@huawei.com
   - repo:
     - boostkit/agent-benchmark
     committers:
@@ -38,3 +30,11 @@ repositories:
         name: 林爱弟
         organization: huawei
         email: linaidi@huawei.com
+      - gitcode_id: davidfunn
+        name: 方健尔
+        organization: huawei
+        email: davidfje@163.com
+      - gitcode_id: RuanDing
+        name: 阮定
+        organization: huawei
+        email: ruanding@huawei.com
