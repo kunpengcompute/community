@@ -10,10 +10,6 @@ maintainers:
     name: 刘玉
     organization: huawei
     email: liuyu3@huawei.com
-  - gitcode_id: huang-wen-jie
-    name: 黄文杰
-    organization: huawei
-    email: huangwenjie16@huawei.com
   - gitcode_id: maoyue0730
     name: 毛越
     organization: huawei
@@ -46,7 +42,15 @@ repositories:
         organization: huawei
         email: maoyue5@huawei.com
     committers:
+      - gitcode_id: maoyue0730
+        name: 毛越
+        organization: huawei
+        email: maoyue5@huawei.com
       - gitcode_id: huang-wen-jie
         name: 黄文杰
         organization: huawei
         email: huangwenjie16@huawei.com
+      - gitcode_id: McGradyXiao
+        name: 肖逢枝
+        organization: huawei
+        email: 1058238021@huawei.com
