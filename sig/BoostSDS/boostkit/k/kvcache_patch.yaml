@@ -1,0 +1,6 @@
+name: kvcache_patch
+type: public
+description: "kvcache_patch SIG信息"
+branches:
+  - name: main
+    type: protected
